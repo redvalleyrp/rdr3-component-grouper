@@ -61,13 +61,13 @@ function groupComponentsByCategory(componentKeys) {
 
 function groupComponentLists(lists) {
     if (Array.isArray(lists)) {
-        return groupComponentByCategory(lists);
+        return groupComponentsByCategory(lists);
     }
 
     const groupedLists = {}
 
     for (const [key, value] of Object.entries(lists)) {
-        groupedLists[key] = groupComponentList(value);
+        groupedLists[key] = groupComponentLists(value);
     }
 
     return groupedLists;
@@ -75,5 +75,5 @@ function groupComponentLists(lists) {
 
 fs.writeFileSync(
     './grouped_components.json',
-    JSON.stringify(groupComponentList(require('./components.json')), undefined, 4)
+    JSON.stringify(groupComponentLists(require('./components.json')), undefined, 4)
 );
