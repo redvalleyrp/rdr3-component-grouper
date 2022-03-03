@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "dependencies": {
+    "diff": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/diff": "^5.0.2"
+  }
+}
