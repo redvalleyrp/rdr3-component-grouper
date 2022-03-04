@@ -1,9 +1,15 @@
 {
-  "private": true,
-  "dependencies": {
-    "diff": "^5.0.0"
-  },
-  "devDependencies": {
-    "@types/diff": "^5.0.2"
-  }
+    "name": "component-grouper",
+    "description": "Groups the the ped components by its category.",
+    "private": true,
+    "dependencies": {
+        "diff": "^5.0.0"
+    },
+    "scripts": {
+        "start": "node ./src/index.js",
+        "converter": "node ./src/table_converter.js"
+    },
+    "devDependencies": {
+        "@types/diff": "^5.0.2"
+    }
 }
