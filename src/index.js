@@ -45,6 +45,7 @@ function saveGroupedClothes(directoryPath, groups) {
     for (const [pedType, categories] of Object.entries(output)) {
         const luaOutput = lua.format(categories, { spaces: 4 })
             .replace('return', `gComponents.${['male', 'female'].includes(pedType) ? `mp_${pedType}` : pedType} =`)
+            .replace(/\['(?<key>-?\d+)'\]/g, '[$<key>]')
             .replace(/'/g, '`');
 
         fs.writeFileSync(path.resolve(directoryPath, `${pedType}.lua`), luaOutput);
