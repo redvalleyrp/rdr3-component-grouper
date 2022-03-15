@@ -1,85 +1,61 @@
+const path = require('path');
 const fs = require('fs');
+const lua = require('lua-json');
+const sortArray = require('sort-array');
 
-class Component {
+const Group = require('./Group');
 
-    constructor(category, variation) {
-        this.category = category;
-        this.variation = variation;
-    }
+const clothes = readClothes(path.resolve(__dirname, 'data', 'cloth_hash_names.lua'));
+const sortedClothes = sortClothes(clothes);
 
-    toString() {
+const groups = [];
 
-        if (this.variation) {
-            return `${this.category}_${this.variation}`;
+let currentGroup = undefined;
+
+for (const cloth of sortedClothes) {
+    if (currentGroup === undefined || !currentGroup.add(cloth)) {
+        if (currentGroup?.clothes?.length) {
+            groups.push(currentGroup);
         }
 
-        return this.category;
+        currentGroup = new Group(cloth);
+        currentGroup.add(cloth);
+    }
+}
+
+saveGroupedClothes('./output', groups);
+
+function readClothes(filePath) {
+    const input = fs.readFileSync(filePath, 'utf8')
+        .replace('cloth_hash_names =', 'return');
+
+    return lua.parse(input);
+}
+
+function saveGroupedClothes(directoryPath, groups) {
+    const output = {};
+
+    for (const group of groups) {
+        output[group.pedType] = output[group.pedType] || {};
+        output[group.pedType][group.category] = output[group.pedType][group.category] || [];
+
+        output[group.pedType][group.category].push(group.clothes.map(cloth => cloth.hashname || cloth.hash));
     }
 
-    static parse(text) {
+    for (const [pedType, categories] of Object.entries(output)) {
+        const luaOutput = lua.format(categories, { spaces: 4 })
+            .replace('return', `gComponents.${['male', 'female'].includes(pedType) ? `mp_${pedType}` : pedType} =`);
 
-        const match = text.match(/(?<category>(.+\d+)|(HORSE_EQUIPMENT_HORN_NEW))_(?<variation>.+)/);
+        fs.writeFileSync(path.resolve(directoryPath, `${pedType}.lua`), luaOutput);
+    }
+}
 
-        if (match) {
-            return new Component(match.groups.category, match.groups.variation);
+function sortClothes(clothes) {
+    return sortArray([...clothes], {
+        by: ['category', 'hashname', 'ped_type'],
+        order: 'asc',
+        computed: {
+            category: cloth => cloth.category_hashname || cloth.category_hash
         }
-
-        return new Component(text);
-    }
+    });
 }
-
-class Group {
-
-    constructor(category) {
-        this.category = category;
-        this.items = []
-    }
-
-}
-
-function groupComponentsByCategory(componentKeys) {
-
-    const groupedComponentKeys = []
-
-    let currentGroup = undefined;
-
-    for (const componentKey of componentKeys) {
-
-        if (typeof componentKey === 'string') {
-
-            const component = Component.parse(componentKey);
-
-            if (currentGroup === undefined) {
-                currentGroup = new Group(component.category);
-            }
-
-            if (currentGroup.category !== component.category) {
-                groupedComponentKeys.push(currentGroup.items);
-                currentGroup = new Group(component.category);
-            }
-
-            currentGroup.items.push(componentKey);
-        } else {
-            groupedComponentKeys.push(componentKey)
-        }
-    }
-
-    return groupedComponentKeys;
-}
-
-function groupComponentLists(lists) {
-
-    if (Array.isArray(lists)) {
-        return groupComponentsByCategory(lists);
-    }
-
-    const groupedLists = {}
-
-    for (const [key, value] of Object.entries(lists)) {
-        groupedLists[key] = groupComponentLists(value);
-    }
-
-    return groupedLists;
-}
-
-fs.writeFileSync('src/data/grouped_components.json', JSON.stringify(groupComponentLists(require('./data/cloth_hash_names.json')), undefined, 4));
