@@ -3,8 +3,7 @@
     "description": "Groups the the ped components by its category.",
     "private": true,
     "scripts": {
-        "start": "node ./src/index.js",
-        "converter": "node ./src/table_converter.js"
+        "start": "node ./src/index.js"
     },
     "dependencies": {
         "lua-json": "^1.0.0",
