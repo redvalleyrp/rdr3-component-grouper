@@ -1,6 +1,15 @@
+const ClothingNames = require('./ClothingNames');
+
 module.exports = class Group {
+
     constructor(cloth) {
-        this.category = cloth.category_hashname || cloth.category_hash;
+
+        this.category = ClothingNames[cloth.category_hashname || cloth.category_hash];
+
+        if (!this.category) {
+            return console.log(`\x1b[41mNão foi encontrado o nome da categoria ${cloth.category_hashname || cloth.category_hash}\x1b[0m`)
+        }
+
         this.pedType = cloth.ped_type;
 
         if (cloth.hashname) {
@@ -11,6 +20,7 @@ module.exports = class Group {
     }
 
     add(cloth) {
+
         if (!this.belongs(cloth)) {
             return false;
         }
@@ -21,7 +31,8 @@ module.exports = class Group {
     }
 
     belongs(cloth) {
-        if (this.category !== (cloth.category_hashname || cloth.category_hash) || this.pedType !== cloth.ped_type) {
+
+        if (this.category !== (ClothingNames[cloth.category_hashname]) || this.pedType !== cloth.ped_type) {
             return false;
         }
 

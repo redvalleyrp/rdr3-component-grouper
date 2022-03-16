@@ -57,7 +57,7 @@ function sortClothes(clothes) {
         by: ['category', 'hashname', 'ped_type'],
         order: 'asc',
         computed: {
-            category: cloth => cloth.category_hashname || cloth.category_hash
+            category: cloth => cloth.category
         }
     });
 }
