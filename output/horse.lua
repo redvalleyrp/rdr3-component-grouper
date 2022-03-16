@@ -1491,6 +1491,11 @@ gComponents.horse = {
             4270741228,
         },
     },
+    horseSaddleHolster = {
+        {
+            4151496406,
+        },
+    },
     horseBedrolls = {
         {
             `HORSE_EQUIPMENT_HORSE_BEDROLL_00_NEW_000`,

@@ -4,6 +4,7 @@ const lua = require('lua-json');
 const sortArray = require('sort-array');
 
 const Group = require('./Group');
+const ClothingNames = require('./ClothingNames');
 
 const clothes = readClothes(path.resolve(__dirname, 'data', 'cloth_hash_names.lua'));
 const sortedClothes = sortClothes(clothes);
@@ -36,10 +37,12 @@ function saveGroupedClothes(directoryPath, groups) {
     const output = {};
 
     for (const group of groups) {
-        output[group.pedType] = output[group.pedType] || {};
-        output[group.pedType][group.category] = output[group.pedType][group.category] || [];
+        const outputGroupCategory = ClothingNames[group.category];
 
-        output[group.pedType][group.category].push(group.clothes.map(cloth => cloth.hashname || cloth.hash));
+        output[group.pedType] = output[group.pedType] || {};
+        output[group.pedType][outputGroupCategory] = output[group.pedType][outputGroupCategory] || [];
+
+        output[group.pedType][outputGroupCategory].push(group.clothes.map(cloth => cloth.hashname || cloth.hash));
     }
 
     for (const [pedType, categories] of Object.entries(output)) {
