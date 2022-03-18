@@ -54,7 +54,7 @@ module.exports = {
     'gunbelt_accs': 'gunbeltAccessories',
     'hair_accessories': 'hairAccessories',
     'dresses': 'dresses',
-    'beards_complete': 'beardsComplete',
+    'beards_complete': 'beards',
     'horse_saddles': 'horseSaddles',
     'horse_bedrolls': 'horseBedrolls',
     'horse_blankets': 'horseBlankets',

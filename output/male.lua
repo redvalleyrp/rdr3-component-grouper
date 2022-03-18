@@ -159,7 +159,7 @@ gComponents.mp_male = {
             4212924881,
         },
     },
-    beardsComplete = {
+    beards = {
         {
             1412973097,
             1744685570,
