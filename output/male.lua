@@ -1,14 +1,6 @@
 gComponents.mp_male = {
     bodiesLower = {
         {
-            146887878,
-            514113415,
-            1354932335,
-            2036331425,
-            2155508947,
-            2883835464,
-            2928447814,
-            3594498593,
             4075453406,
         },
         {
@@ -54,31 +46,7 @@ gComponents.mp_male = {
     },
     bodiesUpper = {
         {
-            29184152,
-            270373168,
-            340510282,
-            464810690,
-            903295690,
-            1104692218,
-            1203435878,
-            1333201469,
-            1833998502,
-            1861232849,
-            2395677394,
-            2568464573,
-            2591618928,
-            2749136787,
-            2792415997,
-            2937657967,
-            3050207174,
-            3171033637,
-            3304692809,
-            3521798364,
-            4184035305,
             543187419,
-        },
-        {
-            `CLOTHING_ITEM_BODY_ARTHUR_0`,
         },
         {
             `CLOTHING_ITEM_M_BODIES_UPPER_001_V_001`,
@@ -121,44 +89,8 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_BODIES_UPPER_005_V_006`,
         },
     },
-    masksLarge = {
-        {
-            3700592636,
-            3812572577,
-        },
-        {
-            `CLOTHING_ITEM_MASK_PIG_001`,
-        },
-        {
-            `CLOTHING_ITEM_SKULLMASK_MR1_000_1`,
-        },
-        {
-            `CLOTHING_ITEM_SKULLMASK_MR1_001_1`,
-        },
-        {
-            `CLOTHING_ITEM_SKULLMASK_MR1_002_1`,
-        },
-        {
-            `KIT_MASK_BLACK_HOOD`,
-        },
-        {
-            `KIT_MASK_BROWN_SACK`,
-        },
-        {
-            `KIT_MASK_GREY_CLOTH`,
-        },
-        {
-            `KIT_MASK_METAL`,
-        },
-        {
-            `KIT_MASK_PSYCHO`,
-        },
-    },
     accessories = {
         {
-            672816198,
-            1375457417,
-            2110595215,
             106536658,
             334838281,
             395446814,
@@ -185,6 +117,8 @@ gComponents.mp_male = {
             1960563697,
             2030947604,
             2054532984,
+        },
+        {
             2081384484,
             2083997285,
             2119613742,
@@ -223,76 +157,6 @@ gComponents.mp_male = {
             3973678412,
             4034097926,
             4212924881,
-        },
-        {
-            `CLOTHING_ITEM_SATCHEL_PZ_000_MONEY_BAG`,
-        },
-    },
-    ammoPistols = {
-        {
-            600894672,
-        },
-    },
-    ammoRifles = {
-        {
-            495489215,
-            852806853,
-        },
-    },
-    aprons = {
-        {
-            916803334,
-        },
-    },
-    armor = {
-        {
-            989985828,
-            1631153824,
-            1814257258,
-            2051996353,
-            2262143950,
-            2465639440,
-            2706655435,
-            3377502403,
-            3817803097,
-            4170970969,
-        },
-    },
-    badges = {
-        {
-            3679208733,
-            532753564,
-            1855386696,
-        },
-        {
-            `CLOTHING_ITEM_BADGE_PZERO_000`,
-        },
-        {
-            `CLOTHING_ITEM_M_BADGE_000_TINT_001`,
-        },
-    },
-    beardsChin = {
-        {
-            1331190543,
-            1645689077,
-        },
-        {
-            `CLOTHING_ITEM_BEARD_FORKED`,
-        },
-        {
-            `CLOTHING_ITEM_BEARD_SINGLE`,
-        },
-    },
-    beardsChops = {
-        {
-            1336948195,
-            2631482074,
-        },
-        {
-            `CLOTHING_ITEM_CHOPS_DUNBEARY`,
-        },
-        {
-            `CLOTHING_ITEM_CHOPS_NORMAL`,
         },
     },
     beardsComplete = {
@@ -759,22 +623,6 @@ gComponents.mp_male = {
         },
         {
             `CLOTHING_ITEM_M_NECKERCHIEF_550_TINT_024`,
-        },
-    },
-    beardsMustache = {
-        {
-            216184750,
-            2947148912,
-            3939904146,
-        },
-        {
-            `CLOTHING_ITEM_STACHE_002`,
-        },
-        {
-            `CLOTHING_ITEM_STACHE_HANDLEBAR`,
-        },
-        {
-            `CLOTHING_ITEM_STACHE_NORMAL`,
         },
     },
     beltBuckles = {
@@ -1297,12 +1145,6 @@ gComponents.mp_male = {
     },
     belts = {
         {
-            1473136074,
-            1478648583,
-            1845747474,
-            7635313,
-            27101825,
-            78420045,
             129313270,
             207156152,
             271524070,
@@ -1396,6 +1238,11 @@ gComponents.mp_male = {
             4207383252,
         },
         {
+            7635313,
+            27101825,
+            78420045,
+        },
+        {
             `CLOTHING_ITEM_M_SEASONAL_000_BELT_000`,
         },
         {
@@ -1405,10 +1252,31 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_SEASONAL_003_BELT_000`,
         },
     },
+    armor = {
+        {
+            989985828,
+            1631153824,
+            1814257258,
+            2051996353,
+            2262143950,
+            2465639440,
+            2706655435,
+            3377502403,
+            3817803097,
+            4170970969,
+        },
+    },
+    badges = {
+        {
+            532753564,
+            1855386696,
+        },
+        {
+            `CLOTHING_ITEM_M_BADGE_000_TINT_001`,
+        },
+    },
     bootAccessories = {
         {
-            3314140176,
-            3461477004,
             132382412,
             147283976,
             305913291,
@@ -1433,116 +1301,6 @@ gComponents.mp_male = {
             4016876883,
             4219842655,
             4278078582,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPURS_000_10`,
-            `CLOTHING_HL_PLAYER_SPURS_000_11`,
-            `CLOTHING_HL_PLAYER_SPURS_000_12`,
-            `CLOTHING_HL_PLAYER_SPURS_000_13`,
-            `CLOTHING_HL_PLAYER_SPURS_000_3`,
-            `CLOTHING_HL_PLAYER_SPURS_000_4`,
-            `CLOTHING_HL_PLAYER_SPURS_000_5`,
-            `CLOTHING_HL_PLAYER_SPURS_000_6`,
-            `CLOTHING_HL_PLAYER_SPURS_000_7`,
-            `CLOTHING_HL_PLAYER_SPURS_000_8`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPURS_001_1`,
-            `CLOTHING_HL_PLAYER_SPURS_001_10`,
-            `CLOTHING_HL_PLAYER_SPURS_001_2`,
-            `CLOTHING_HL_PLAYER_SPURS_001_3`,
-            `CLOTHING_HL_PLAYER_SPURS_001_4`,
-            `CLOTHING_HL_PLAYER_SPURS_001_5`,
-            `CLOTHING_HL_PLAYER_SPURS_001_6`,
-            `CLOTHING_HL_PLAYER_SPURS_001_7`,
-            `CLOTHING_HL_PLAYER_SPURS_001_8`,
-            `CLOTHING_HL_PLAYER_SPURS_001_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPURS_002_1`,
-            `CLOTHING_HL_PLAYER_SPURS_002_10`,
-            `CLOTHING_HL_PLAYER_SPURS_002_2`,
-            `CLOTHING_HL_PLAYER_SPURS_002_3`,
-            `CLOTHING_HL_PLAYER_SPURS_002_4`,
-            `CLOTHING_HL_PLAYER_SPURS_002_5`,
-            `CLOTHING_HL_PLAYER_SPURS_002_6`,
-            `CLOTHING_HL_PLAYER_SPURS_002_7`,
-            `CLOTHING_HL_PLAYER_SPURS_002_8`,
-            `CLOTHING_HL_PLAYER_SPURS_002_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPURS_003_10`,
-            `CLOTHING_HL_PLAYER_SPURS_003_2`,
-            `CLOTHING_HL_PLAYER_SPURS_003_3`,
-            `CLOTHING_HL_PLAYER_SPURS_003_7`,
-            `CLOTHING_HL_PLAYER_SPURS_003_8`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPURS_004_1`,
-            `CLOTHING_HL_PLAYER_SPURS_004_10`,
-            `CLOTHING_HL_PLAYER_SPURS_004_2`,
-            `CLOTHING_HL_PLAYER_SPURS_004_3`,
-            `CLOTHING_HL_PLAYER_SPURS_004_5`,
-            `CLOTHING_HL_PLAYER_SPURS_004_6`,
-            `CLOTHING_HL_PLAYER_SPURS_004_7`,
-            `CLOTHING_HL_PLAYER_SPURS_004_8`,
-            `CLOTHING_HL_PLAYER_SPURS_004_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPURS_005_1`,
-            `CLOTHING_HL_PLAYER_SPURS_005_2`,
-            `CLOTHING_HL_PLAYER_SPURS_005_3`,
-            `CLOTHING_HL_PLAYER_SPURS_005_5`,
-            `CLOTHING_HL_PLAYER_SPURS_005_6`,
-            `CLOTHING_HL_PLAYER_SPURS_005_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPURS_006_1`,
-            `CLOTHING_HL_PLAYER_SPURS_006_10`,
-            `CLOTHING_HL_PLAYER_SPURS_006_2`,
-            `CLOTHING_HL_PLAYER_SPURS_006_3`,
-            `CLOTHING_HL_PLAYER_SPURS_006_4`,
-            `CLOTHING_HL_PLAYER_SPURS_006_5`,
-            `CLOTHING_HL_PLAYER_SPURS_006_7`,
-            `CLOTHING_HL_PLAYER_SPURS_006_8`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPURS_013_1`,
-            `CLOTHING_HL_PLAYER_SPURS_013_2`,
-            `CLOTHING_HL_PLAYER_SPURS_013_3`,
-            `CLOTHING_HL_PLAYER_SPURS_013_4`,
-            `CLOTHING_HL_PLAYER_SPURS_013_5`,
-            `CLOTHING_HL_PLAYER_SPURS_013_6`,
-            `CLOTHING_HL_PLAYER_SPURS_013_7`,
-            `CLOTHING_HL_PLAYER_SPURS_013_8`,
-            `CLOTHING_HL_PLAYER_SPURS_013_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPURS_014_1`,
-            `CLOTHING_HL_PLAYER_SPURS_014_10`,
-            `CLOTHING_HL_PLAYER_SPURS_014_2`,
-            `CLOTHING_HL_PLAYER_SPURS_014_5`,
-            `CLOTHING_HL_PLAYER_SPURS_014_6`,
-            `CLOTHING_HL_PLAYER_SPURS_014_7`,
-            `CLOTHING_HL_PLAYER_SPURS_014_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPURS_022_1`,
-            `CLOTHING_HL_PLAYER_SPURS_022_10`,
-            `CLOTHING_HL_PLAYER_SPURS_022_2`,
-            `CLOTHING_HL_PLAYER_SPURS_022_3`,
-            `CLOTHING_HL_PLAYER_SPURS_022_4`,
-            `CLOTHING_HL_PLAYER_SPURS_022_5`,
-            `CLOTHING_HL_PLAYER_SPURS_022_6`,
-            `CLOTHING_HL_PLAYER_SPURS_022_7`,
-            `CLOTHING_HL_PLAYER_SPURS_022_8`,
-            `CLOTHING_HL_PLAYER_SPURS_022_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPURS_023_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPURS_024_1`,
         },
         {
             `CLOTHING_ITEM_M_SEASONAL_002_SPURS_000`,
@@ -1679,13 +1437,9 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_SPURS_011_TINT_009`,
             `CLOTHING_ITEM_M_SPURS_011_TINT_010`,
         },
-        {
-            `PROVISION_TALISMAN_EAGLE_TALSON`,
-        },
     },
     boots = {
         {
-            951372388,
             54657304,
             60159987,
             104683025,
@@ -1838,249 +1592,6 @@ gComponents.mp_male = {
             4243750366,
             4254618933,
             4280447941,
-        },
-        {
-            `CLOTHING_BOOTS_000_POLICE`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_000_10`,
-            `CLOTHING_HL_PLAYER_BOOT_000_2`,
-            `CLOTHING_HL_PLAYER_BOOT_000_3`,
-            `CLOTHING_HL_PLAYER_BOOT_000_4`,
-            `CLOTHING_HL_PLAYER_BOOT_000_5`,
-            `CLOTHING_HL_PLAYER_BOOT_000_6`,
-            `CLOTHING_HL_PLAYER_BOOT_000_7`,
-            `CLOTHING_HL_PLAYER_BOOT_000_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_002_2`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_003_1`,
-            `CLOTHING_HL_PLAYER_BOOT_003_10`,
-            `CLOTHING_HL_PLAYER_BOOT_003_2`,
-            `CLOTHING_HL_PLAYER_BOOT_003_3`,
-            `CLOTHING_HL_PLAYER_BOOT_003_4`,
-            `CLOTHING_HL_PLAYER_BOOT_003_5`,
-            `CLOTHING_HL_PLAYER_BOOT_003_6`,
-            `CLOTHING_HL_PLAYER_BOOT_003_7`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_004_1`,
-            `CLOTHING_HL_PLAYER_BOOT_004_2`,
-            `CLOTHING_HL_PLAYER_BOOT_004_4`,
-            `CLOTHING_HL_PLAYER_BOOT_004_5`,
-            `CLOTHING_HL_PLAYER_BOOT_004_7`,
-            `CLOTHING_HL_PLAYER_BOOT_004_8`,
-            `CLOTHING_HL_PLAYER_BOOT_004_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_005_1`,
-            `CLOTHING_HL_PLAYER_BOOT_005_10`,
-            `CLOTHING_HL_PLAYER_BOOT_005_2`,
-            `CLOTHING_HL_PLAYER_BOOT_005_3`,
-            `CLOTHING_HL_PLAYER_BOOT_005_4`,
-            `CLOTHING_HL_PLAYER_BOOT_005_5`,
-            `CLOTHING_HL_PLAYER_BOOT_005_6`,
-            `CLOTHING_HL_PLAYER_BOOT_005_7`,
-            `CLOTHING_HL_PLAYER_BOOT_005_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_006_1`,
-            `CLOTHING_HL_PLAYER_BOOT_006_2`,
-            `CLOTHING_HL_PLAYER_BOOT_006_3`,
-            `CLOTHING_HL_PLAYER_BOOT_006_7`,
-            `CLOTHING_HL_PLAYER_BOOT_006_8`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_007_1`,
-            `CLOTHING_HL_PLAYER_BOOT_007_10`,
-            `CLOTHING_HL_PLAYER_BOOT_007_3`,
-            `CLOTHING_HL_PLAYER_BOOT_007_4`,
-            `CLOTHING_HL_PLAYER_BOOT_007_5`,
-            `CLOTHING_HL_PLAYER_BOOT_007_6`,
-            `CLOTHING_HL_PLAYER_BOOT_007_7`,
-            `CLOTHING_HL_PLAYER_BOOT_007_8`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_008_1`,
-            `CLOTHING_HL_PLAYER_BOOT_008_2`,
-            `CLOTHING_HL_PLAYER_BOOT_008_3`,
-            `CLOTHING_HL_PLAYER_BOOT_008_6`,
-            `CLOTHING_HL_PLAYER_BOOT_008_7`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_009_1`,
-            `CLOTHING_HL_PLAYER_BOOT_009_10`,
-            `CLOTHING_HL_PLAYER_BOOT_009_2`,
-            `CLOTHING_HL_PLAYER_BOOT_009_3`,
-            `CLOTHING_HL_PLAYER_BOOT_009_4`,
-            `CLOTHING_HL_PLAYER_BOOT_009_5`,
-            `CLOTHING_HL_PLAYER_BOOT_009_6`,
-            `CLOTHING_HL_PLAYER_BOOT_009_7`,
-            `CLOTHING_HL_PLAYER_BOOT_009_8`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_010_1`,
-            `CLOTHING_HL_PLAYER_BOOT_010_10`,
-            `CLOTHING_HL_PLAYER_BOOT_010_2`,
-            `CLOTHING_HL_PLAYER_BOOT_010_3`,
-            `CLOTHING_HL_PLAYER_BOOT_010_4`,
-            `CLOTHING_HL_PLAYER_BOOT_010_5`,
-            `CLOTHING_HL_PLAYER_BOOT_010_6`,
-            `CLOTHING_HL_PLAYER_BOOT_010_7`,
-            `CLOTHING_HL_PLAYER_BOOT_010_8`,
-            `CLOTHING_HL_PLAYER_BOOT_010_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_012_1`,
-            `CLOTHING_HL_PLAYER_BOOT_012_10`,
-            `CLOTHING_HL_PLAYER_BOOT_012_11`,
-            `CLOTHING_HL_PLAYER_BOOT_012_2`,
-            `CLOTHING_HL_PLAYER_BOOT_012_3`,
-            `CLOTHING_HL_PLAYER_BOOT_012_4`,
-            `CLOTHING_HL_PLAYER_BOOT_012_5`,
-            `CLOTHING_HL_PLAYER_BOOT_012_6`,
-            `CLOTHING_HL_PLAYER_BOOT_012_7`,
-            `CLOTHING_HL_PLAYER_BOOT_012_8`,
-            `CLOTHING_HL_PLAYER_BOOT_012_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_015_1`,
-            `CLOTHING_HL_PLAYER_BOOT_015_10`,
-            `CLOTHING_HL_PLAYER_BOOT_015_2`,
-            `CLOTHING_HL_PLAYER_BOOT_015_4`,
-            `CLOTHING_HL_PLAYER_BOOT_015_6`,
-            `CLOTHING_HL_PLAYER_BOOT_015_7`,
-            `CLOTHING_HL_PLAYER_BOOT_015_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_016_1`,
-            `CLOTHING_HL_PLAYER_BOOT_016_3`,
-            `CLOTHING_HL_PLAYER_BOOT_016_4`,
-            `CLOTHING_HL_PLAYER_BOOT_016_5`,
-            `CLOTHING_HL_PLAYER_BOOT_016_6`,
-            `CLOTHING_HL_PLAYER_BOOT_016_7`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_017_1`,
-            `CLOTHING_HL_PLAYER_BOOT_017_2`,
-            `CLOTHING_HL_PLAYER_BOOT_017_4`,
-            `CLOTHING_HL_PLAYER_BOOT_017_7`,
-            `CLOTHING_HL_PLAYER_BOOT_017_8`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_020_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_021_2`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_022_2`,
-            `CLOTHING_HL_PLAYER_BOOT_022_3`,
-            `CLOTHING_HL_PLAYER_BOOT_022_4`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_025_1`,
-            `CLOTHING_HL_PLAYER_BOOT_025_10`,
-            `CLOTHING_HL_PLAYER_BOOT_025_2`,
-            `CLOTHING_HL_PLAYER_BOOT_025_3`,
-            `CLOTHING_HL_PLAYER_BOOT_025_4`,
-            `CLOTHING_HL_PLAYER_BOOT_025_6`,
-            `CLOTHING_HL_PLAYER_BOOT_025_8`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_026_1`,
-            `CLOTHING_HL_PLAYER_BOOT_026_2`,
-            `CLOTHING_HL_PLAYER_BOOT_026_6`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_027_1`,
-            `CLOTHING_HL_PLAYER_BOOT_027_10`,
-            `CLOTHING_HL_PLAYER_BOOT_027_3`,
-            `CLOTHING_HL_PLAYER_BOOT_027_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_028_1`,
-            `CLOTHING_HL_PLAYER_BOOT_028_5`,
-            `CLOTHING_HL_PLAYER_BOOT_028_6`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_032_3`,
-            `CLOTHING_HL_PLAYER_BOOT_032_4`,
-            `CLOTHING_HL_PLAYER_BOOT_032_6`,
-            `CLOTHING_HL_PLAYER_BOOT_032_8`,
-            `CLOTHING_HL_PLAYER_BOOT_032_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_033_1`,
-            `CLOTHING_HL_PLAYER_BOOT_033_2`,
-            `CLOTHING_HL_PLAYER_BOOT_033_8`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_034_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_035_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_036_1`,
-            `CLOTHING_HL_PLAYER_BOOT_036_3`,
-            `CLOTHING_HL_PLAYER_BOOT_036_6`,
-            `CLOTHING_HL_PLAYER_BOOT_036_7`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_037_1`,
-            `CLOTHING_HL_PLAYER_BOOT_037_10`,
-            `CLOTHING_HL_PLAYER_BOOT_037_14`,
-            `CLOTHING_HL_PLAYER_BOOT_037_15`,
-            `CLOTHING_HL_PLAYER_BOOT_037_2`,
-            `CLOTHING_HL_PLAYER_BOOT_037_3`,
-            `CLOTHING_HL_PLAYER_BOOT_037_4`,
-            `CLOTHING_HL_PLAYER_BOOT_037_5`,
-            `CLOTHING_HL_PLAYER_BOOT_037_6`,
-            `CLOTHING_HL_PLAYER_BOOT_037_7`,
-            `CLOTHING_HL_PLAYER_BOOT_037_8`,
-            `CLOTHING_HL_PLAYER_BOOT_037_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_038_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_040_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_042_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_044_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_045_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_046_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_047_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_048_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_050_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_BOOT_052_1`,
-        },
-        {
-            `CLOTHING_ITEM_BOOTS_PZERO_000`,
-        },
-        {
-            `CLOTHING_ITEM_BOOTS_PZERO_001`,
-        },
-        {
-            `CLOTHING_ITEM_BOOTS_PZERO_002`,
         },
         {
             `CLOTHING_ITEM_M_BOOTS_000_TINT_001`,
@@ -2680,53 +2191,6 @@ gComponents.mp_male = {
             3213853362,
         },
         {
-            `CLOTHING_HL_PLAYER_CHAPS_000_1`,
-            `CLOTHING_HL_PLAYER_CHAPS_000_2`,
-            `CLOTHING_HL_PLAYER_CHAPS_000_3`,
-            `CLOTHING_HL_PLAYER_CHAPS_000_4`,
-            `CLOTHING_HL_PLAYER_CHAPS_000_6`,
-            `CLOTHING_HL_PLAYER_CHAPS_000_7`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_CHAPS_001_5`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_CHAPS_002_1`,
-            `CLOTHING_HL_PLAYER_CHAPS_002_10`,
-            `CLOTHING_HL_PLAYER_CHAPS_002_11`,
-            `CLOTHING_HL_PLAYER_CHAPS_002_12`,
-            `CLOTHING_HL_PLAYER_CHAPS_002_2`,
-            `CLOTHING_HL_PLAYER_CHAPS_002_3`,
-            `CLOTHING_HL_PLAYER_CHAPS_002_4`,
-            `CLOTHING_HL_PLAYER_CHAPS_002_5`,
-            `CLOTHING_HL_PLAYER_CHAPS_002_6`,
-            `CLOTHING_HL_PLAYER_CHAPS_002_7`,
-            `CLOTHING_HL_PLAYER_CHAPS_002_8`,
-            `CLOTHING_HL_PLAYER_CHAPS_002_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_CHAPS_003_2`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_CHAPS_005_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_CHAPS_006_1`,
-            `CLOTHING_HL_PLAYER_CHAPS_006_2`,
-            `CLOTHING_HL_PLAYER_CHAPS_006_3`,
-            `CLOTHING_HL_PLAYER_CHAPS_006_4`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_CHAPS_007_1`,
-            `CLOTHING_HL_PLAYER_CHAPS_007_2`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_CHAPS_008_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_CHAPS_009_1`,
-        },
-        {
             `CLOTHING_ITEM_M_CHAPS_000_TINT_001`,
             `CLOTHING_ITEM_M_CHAPS_000_TINT_002`,
             `CLOTHING_ITEM_M_CHAPS_000_TINT_003`,
@@ -2807,8 +2271,6 @@ gComponents.mp_male = {
     },
     cloaks = {
         {
-            1103691625,
-            4222829406,
             365661718,
             430280399,
             546153370,
@@ -2832,8 +2294,6 @@ gComponents.mp_male = {
     },
     coats = {
         {
-            331167570,
-            3925301215,
             63721825,
             119268866,
             154924622,
@@ -2933,134 +2393,6 @@ gComponents.mp_male = {
             4235935300,
             4243466981,
             4266627366,
-        },
-        {
-            `CLOTHING_HL_PLAYER_COAT_001_1`,
-            `CLOTHING_HL_PLAYER_COAT_001_10`,
-            `CLOTHING_HL_PLAYER_COAT_001_11`,
-            `CLOTHING_HL_PLAYER_COAT_001_12`,
-            `CLOTHING_HL_PLAYER_COAT_001_13`,
-            `CLOTHING_HL_PLAYER_COAT_001_14`,
-            `CLOTHING_HL_PLAYER_COAT_001_16`,
-            `CLOTHING_HL_PLAYER_COAT_001_17`,
-            `CLOTHING_HL_PLAYER_COAT_001_18`,
-            `CLOTHING_HL_PLAYER_COAT_001_20`,
-            `CLOTHING_HL_PLAYER_COAT_001_3`,
-            `CLOTHING_HL_PLAYER_COAT_001_4`,
-            `CLOTHING_HL_PLAYER_COAT_001_5`,
-            `CLOTHING_HL_PLAYER_COAT_001_6`,
-            `CLOTHING_HL_PLAYER_COAT_001_7`,
-            `CLOTHING_HL_PLAYER_COAT_001_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_COAT_005_12`,
-            `CLOTHING_HL_PLAYER_COAT_005_4`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_COAT_009_1`,
-            `CLOTHING_HL_PLAYER_COAT_009_2`,
-            `CLOTHING_HL_PLAYER_COAT_009_3`,
-            `CLOTHING_HL_PLAYER_COAT_009_4`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_COAT_011_1`,
-            `CLOTHING_HL_PLAYER_COAT_011_10`,
-            `CLOTHING_HL_PLAYER_COAT_011_11`,
-            `CLOTHING_HL_PLAYER_COAT_011_2`,
-            `CLOTHING_HL_PLAYER_COAT_011_3`,
-            `CLOTHING_HL_PLAYER_COAT_011_4`,
-            `CLOTHING_HL_PLAYER_COAT_011_5`,
-            `CLOTHING_HL_PLAYER_COAT_011_6`,
-            `CLOTHING_HL_PLAYER_COAT_011_7`,
-            `CLOTHING_HL_PLAYER_COAT_011_8`,
-            `CLOTHING_HL_PLAYER_COAT_011_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_COAT_012_1`,
-            `CLOTHING_HL_PLAYER_COAT_012_10`,
-            `CLOTHING_HL_PLAYER_COAT_012_11`,
-            `CLOTHING_HL_PLAYER_COAT_012_2`,
-            `CLOTHING_HL_PLAYER_COAT_012_3`,
-            `CLOTHING_HL_PLAYER_COAT_012_5`,
-            `CLOTHING_HL_PLAYER_COAT_012_6`,
-            `CLOTHING_HL_PLAYER_COAT_012_7`,
-            `CLOTHING_HL_PLAYER_COAT_012_8`,
-            `CLOTHING_HL_PLAYER_COAT_012_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_COAT_013_1`,
-            `CLOTHING_HL_PLAYER_COAT_013_10`,
-            `CLOTHING_HL_PLAYER_COAT_013_2`,
-            `CLOTHING_HL_PLAYER_COAT_013_3`,
-            `CLOTHING_HL_PLAYER_COAT_013_4`,
-            `CLOTHING_HL_PLAYER_COAT_013_5`,
-            `CLOTHING_HL_PLAYER_COAT_013_6`,
-            `CLOTHING_HL_PLAYER_COAT_013_7`,
-            `CLOTHING_HL_PLAYER_COAT_013_8`,
-            `CLOTHING_HL_PLAYER_COAT_013_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_COAT_014_1`,
-            `CLOTHING_HL_PLAYER_COAT_014_10`,
-            `CLOTHING_HL_PLAYER_COAT_014_11`,
-            `CLOTHING_HL_PLAYER_COAT_014_2`,
-            `CLOTHING_HL_PLAYER_COAT_014_3`,
-            `CLOTHING_HL_PLAYER_COAT_014_4`,
-            `CLOTHING_HL_PLAYER_COAT_014_5`,
-            `CLOTHING_HL_PLAYER_COAT_014_6`,
-            `CLOTHING_HL_PLAYER_COAT_014_7`,
-            `CLOTHING_HL_PLAYER_COAT_014_8`,
-            `CLOTHING_HL_PLAYER_COAT_014_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_COAT_016_1`,
-            `CLOTHING_HL_PLAYER_COAT_016_10`,
-            `CLOTHING_HL_PLAYER_COAT_016_11`,
-            `CLOTHING_HL_PLAYER_COAT_016_2`,
-            `CLOTHING_HL_PLAYER_COAT_016_3`,
-            `CLOTHING_HL_PLAYER_COAT_016_4`,
-            `CLOTHING_HL_PLAYER_COAT_016_5`,
-            `CLOTHING_HL_PLAYER_COAT_016_6`,
-            `CLOTHING_HL_PLAYER_COAT_016_7`,
-            `CLOTHING_HL_PLAYER_COAT_016_8`,
-            `CLOTHING_HL_PLAYER_COAT_016_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_COAT_017_5`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_COAT_021_2`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_COAT_026_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_COAT_029_1`,
-            `CLOTHING_HL_PLAYER_COAT_029_2`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_COAT_030_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_COAT_031_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_COAT_032_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_COAT_033_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_COAT_034_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_COAT_035_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_COAT_036_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_COAT_037_1`,
         },
         {
             `CLOTHING_ITEM_M_COAT_000_TINT_001`,
@@ -3584,21 +2916,6 @@ gComponents.mp_male = {
         {
             `CLOTHING_ITEM_M_VAQUERO_COAT_000`,
         },
-        {
-            `CLOTHING_SP_COAT_DUSTER01_VARIATION_01`,
-        },
-        {
-            `CLOTHING_SP_COAT_FANCY01_VARIATION_01`,
-        },
-        {
-            `CLOTHING_SP_COAT_HEIST01_VARIATION_01`,
-        },
-        {
-            `CLOTHING_SP_COAT_RANCHER01_VARIATION_01`,
-        },
-        {
-            `CLOTHING_SP_COAT_WINTER01_VARIATION_01`,
-        },
     },
     coatsClosed = {
         {
@@ -3873,8 +3190,6 @@ gComponents.mp_male = {
     },
     eyes = {
         {
-            2452638665,
-            3508160042,
             1065163858,
             1559811913,
             1798796230,
@@ -3895,9 +3210,6 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_EYES_001_TINT_012`,
             `CLOTHING_ITEM_M_EYES_001_TINT_013`,
             `CLOTHING_ITEM_M_EYES_001_TINT_014`,
-        },
-        {
-            `CLOTHING_ITEM_PZ_EYES_000`,
         },
     },
     eyewear = {
@@ -4038,7 +3350,6 @@ gComponents.mp_male = {
     },
     gloves = {
         {
-            3414004105,
             22341647,
             397480714,
             617090166,
@@ -4058,98 +3369,6 @@ gComponents.mp_male = {
             3560085619,
             3973343978,
             4187621687,
-        },
-        {
-            `CLOTHING_HL_PLAYER_GLOVES_000_11`,
-            `CLOTHING_HL_PLAYER_GLOVES_000_7`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_GLOVES_001_1`,
-            `CLOTHING_HL_PLAYER_GLOVES_001_10`,
-            `CLOTHING_HL_PLAYER_GLOVES_001_11`,
-            `CLOTHING_HL_PLAYER_GLOVES_001_2`,
-            `CLOTHING_HL_PLAYER_GLOVES_001_3`,
-            `CLOTHING_HL_PLAYER_GLOVES_001_4`,
-            `CLOTHING_HL_PLAYER_GLOVES_001_5`,
-            `CLOTHING_HL_PLAYER_GLOVES_001_6`,
-            `CLOTHING_HL_PLAYER_GLOVES_001_7`,
-            `CLOTHING_HL_PLAYER_GLOVES_001_8`,
-            `CLOTHING_HL_PLAYER_GLOVES_001_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_GLOVES_002_1`,
-            `CLOTHING_HL_PLAYER_GLOVES_002_10`,
-            `CLOTHING_HL_PLAYER_GLOVES_002_11`,
-            `CLOTHING_HL_PLAYER_GLOVES_002_2`,
-            `CLOTHING_HL_PLAYER_GLOVES_002_3`,
-            `CLOTHING_HL_PLAYER_GLOVES_002_4`,
-            `CLOTHING_HL_PLAYER_GLOVES_002_5`,
-            `CLOTHING_HL_PLAYER_GLOVES_002_6`,
-            `CLOTHING_HL_PLAYER_GLOVES_002_7`,
-            `CLOTHING_HL_PLAYER_GLOVES_002_8`,
-            `CLOTHING_HL_PLAYER_GLOVES_002_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_GLOVES_004_1`,
-            `CLOTHING_HL_PLAYER_GLOVES_004_10`,
-            `CLOTHING_HL_PLAYER_GLOVES_004_2`,
-            `CLOTHING_HL_PLAYER_GLOVES_004_3`,
-            `CLOTHING_HL_PLAYER_GLOVES_004_4`,
-            `CLOTHING_HL_PLAYER_GLOVES_004_5`,
-            `CLOTHING_HL_PLAYER_GLOVES_004_6`,
-            `CLOTHING_HL_PLAYER_GLOVES_004_7`,
-            `CLOTHING_HL_PLAYER_GLOVES_004_8`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_GLOVES_005_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_GLOVES_006_2`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_GLOVES_009_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_GLOVES_010_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_GLOVES_011_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_GLOVES_012_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_GLOVES_013_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_GLOVES_014_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_GLOVES_015_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_GLOVES_016_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_GLOVES_017_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_GLOVES_018_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_GLOVES_019_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_GLOVES_020_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_GLOVES_022_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_GLOVES_023_1`,
-        },
-        {
-            `CLOTHING_ITEM_GLOVES_PZERO_000`,
         },
         {
             `CLOTHING_ITEM_M_BLACKROSE_GLOVES_000`,
@@ -4442,13 +3661,6 @@ gComponents.mp_male = {
     },
     gunbelts = {
         {
-            776196973,
-            1082956942,
-            1224687176,
-            3082643894,
-            3728924062,
-            3809033461,
-            3846193507,
             35014963,
             1379186834,
             1457263393,
@@ -4460,9 +3672,6 @@ gComponents.mp_male = {
             3485511823,
             3700719152,
             4103868364,
-        },
-        {
-            `CLOTHING_ITEM_GUNBELT_PZERO_000`,
         },
         {
             `CLOTHING_ITEM_M_GUNBELT_000_TINT_001`,
@@ -4588,75 +3797,9 @@ gComponents.mp_male = {
             `CLOTHING_M_R4_GUNBELT_000_TINT_005`,
             `CLOTHING_M_R4_GUNBELT_000_TINT_006`,
         },
-        {
-            `PROVISION_REINFORCED_GUNBELT_BEAR`,
-        },
-        {
-            `PROVISION_REINFORCED_GUNBELT_BOAR`,
-        },
-        {
-            `PROVISION_REINFORCED_GUNBELT_BUFFALO`,
-        },
-        {
-            `PROVISION_REINFORCED_GUNBELT_COUGAR`,
-        },
-        {
-            `PROVISION_REINFORCED_GUNBELT_DEER`,
-        },
-        {
-            `PROVISION_REINFORCED_GUNBELT_GATOR`,
-        },
-        {
-            `PROVISION_REINFORCED_GUNBELT_PANTHER`,
-        },
-        {
-            `PROVISION_REINFORCED_GUNBELT_RABBIT`,
-        },
-        {
-            `PROVISION_REINFORCED_GUNBELT_SNAKE`,
-        },
-        {
-            `UPGRADE_GUN_BELT`,
-        },
     },
     hair = {
         {
-            279124309,
-            282876023,
-            530132198,
-            602337354,
-            862555979,
-            933586678,
-            963009459,
-            1012091683,
-            1156231582,
-            1165676701,
-            1279519416,
-            1334801974,
-            1380556716,
-            1471627791,
-            1612093252,
-            2174672812,
-            2203024105,
-            2277181415,
-            2394333302,
-            2783925675,
-            2823210761,
-            2902373993,
-            3105945327,
-            3147243535,
-            3154256105,
-            3243302667,
-            3308859235,
-            3365650550,
-            3467750978,
-            3480519174,
-            3558819579,
-            3620183999,
-            3795474479,
-            3982791893,
-            4049663564,
-            4101058183,
             182670013,
             204224900,
             371660699,
@@ -4697,12 +3840,6 @@ gComponents.mp_male = {
             4012829781,
             4047866788,
             4207234788,
-        },
-        {
-            `CLOTHING_ITEM_HAIR_BALD`,
-        },
-        {
-            `CLOTHING_ITEM_HAIR_SWEPT_BACK`,
         },
         {
             `CLOTHING_ITEM_M_HAIR_001_BLONDE`,
@@ -5201,8 +4338,6 @@ gComponents.mp_male = {
     },
     hats = {
         {
-            3270873223,
-            3561431805,
             26271031,
             29527424,
             63411059,
@@ -5359,414 +4494,6 @@ gComponents.mp_male = {
             4108434046,
             4171562282,
             4238360457,
-        },
-        {
-            `CLOTHING_HAT_000_POLICE`,
-        },
-        {
-            `CLOTHING_HAT_GRIZZLED_JON`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_000_000_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_000_001_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_000_002_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_000_003_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_000_004_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_000_005_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_000_006_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_000_007_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_000_008_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_000_009_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_000_010_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_000_011_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_002_10`,
-            `CLOTHING_HL_PLAYER_HAT_002_2`,
-            `CLOTHING_HL_PLAYER_HAT_002_3`,
-            `CLOTHING_HL_PLAYER_HAT_002_4`,
-            `CLOTHING_HL_PLAYER_HAT_002_5`,
-            `CLOTHING_HL_PLAYER_HAT_002_6`,
-            `CLOTHING_HL_PLAYER_HAT_002_7`,
-            `CLOTHING_HL_PLAYER_HAT_002_8`,
-            `CLOTHING_HL_PLAYER_HAT_002_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_003_1`,
-            `CLOTHING_HL_PLAYER_HAT_003_10`,
-            `CLOTHING_HL_PLAYER_HAT_003_2`,
-            `CLOTHING_HL_PLAYER_HAT_003_3`,
-            `CLOTHING_HL_PLAYER_HAT_003_4`,
-            `CLOTHING_HL_PLAYER_HAT_003_5`,
-            `CLOTHING_HL_PLAYER_HAT_003_6`,
-            `CLOTHING_HL_PLAYER_HAT_003_7`,
-            `CLOTHING_HL_PLAYER_HAT_003_8`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_004_1`,
-            `CLOTHING_HL_PLAYER_HAT_004_10`,
-            `CLOTHING_HL_PLAYER_HAT_004_11`,
-            `CLOTHING_HL_PLAYER_HAT_004_2`,
-            `CLOTHING_HL_PLAYER_HAT_004_3`,
-            `CLOTHING_HL_PLAYER_HAT_004_4`,
-            `CLOTHING_HL_PLAYER_HAT_004_5`,
-            `CLOTHING_HL_PLAYER_HAT_004_6`,
-            `CLOTHING_HL_PLAYER_HAT_004_7`,
-            `CLOTHING_HL_PLAYER_HAT_004_8`,
-            `CLOTHING_HL_PLAYER_HAT_004_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_005_1`,
-            `CLOTHING_HL_PLAYER_HAT_005_10`,
-            `CLOTHING_HL_PLAYER_HAT_005_2`,
-            `CLOTHING_HL_PLAYER_HAT_005_3`,
-            `CLOTHING_HL_PLAYER_HAT_005_4`,
-            `CLOTHING_HL_PLAYER_HAT_005_5`,
-            `CLOTHING_HL_PLAYER_HAT_005_6`,
-            `CLOTHING_HL_PLAYER_HAT_005_7`,
-            `CLOTHING_HL_PLAYER_HAT_005_8`,
-            `CLOTHING_HL_PLAYER_HAT_005_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_006_1`,
-            `CLOTHING_HL_PLAYER_HAT_006_10`,
-            `CLOTHING_HL_PLAYER_HAT_006_2`,
-            `CLOTHING_HL_PLAYER_HAT_006_3`,
-            `CLOTHING_HL_PLAYER_HAT_006_4`,
-            `CLOTHING_HL_PLAYER_HAT_006_5`,
-            `CLOTHING_HL_PLAYER_HAT_006_6`,
-            `CLOTHING_HL_PLAYER_HAT_006_7`,
-            `CLOTHING_HL_PLAYER_HAT_006_8`,
-            `CLOTHING_HL_PLAYER_HAT_006_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_007_1`,
-            `CLOTHING_HL_PLAYER_HAT_007_10`,
-            `CLOTHING_HL_PLAYER_HAT_007_11`,
-            `CLOTHING_HL_PLAYER_HAT_007_2`,
-            `CLOTHING_HL_PLAYER_HAT_007_3`,
-            `CLOTHING_HL_PLAYER_HAT_007_4`,
-            `CLOTHING_HL_PLAYER_HAT_007_5`,
-            `CLOTHING_HL_PLAYER_HAT_007_6`,
-            `CLOTHING_HL_PLAYER_HAT_007_7`,
-            `CLOTHING_HL_PLAYER_HAT_007_8`,
-            `CLOTHING_HL_PLAYER_HAT_007_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_008_1`,
-            `CLOTHING_HL_PLAYER_HAT_008_10`,
-            `CLOTHING_HL_PLAYER_HAT_008_11`,
-            `CLOTHING_HL_PLAYER_HAT_008_2`,
-            `CLOTHING_HL_PLAYER_HAT_008_3`,
-            `CLOTHING_HL_PLAYER_HAT_008_4`,
-            `CLOTHING_HL_PLAYER_HAT_008_5`,
-            `CLOTHING_HL_PLAYER_HAT_008_6`,
-            `CLOTHING_HL_PLAYER_HAT_008_7`,
-            `CLOTHING_HL_PLAYER_HAT_008_8`,
-            `CLOTHING_HL_PLAYER_HAT_008_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_009_1`,
-            `CLOTHING_HL_PLAYER_HAT_009_10`,
-            `CLOTHING_HL_PLAYER_HAT_009_2`,
-            `CLOTHING_HL_PLAYER_HAT_009_3`,
-            `CLOTHING_HL_PLAYER_HAT_009_4`,
-            `CLOTHING_HL_PLAYER_HAT_009_5`,
-            `CLOTHING_HL_PLAYER_HAT_009_6`,
-            `CLOTHING_HL_PLAYER_HAT_009_7`,
-            `CLOTHING_HL_PLAYER_HAT_009_8`,
-            `CLOTHING_HL_PLAYER_HAT_009_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_010_1`,
-            `CLOTHING_HL_PLAYER_HAT_010_10`,
-            `CLOTHING_HL_PLAYER_HAT_010_2`,
-            `CLOTHING_HL_PLAYER_HAT_010_3`,
-            `CLOTHING_HL_PLAYER_HAT_010_4`,
-            `CLOTHING_HL_PLAYER_HAT_010_5`,
-            `CLOTHING_HL_PLAYER_HAT_010_6`,
-            `CLOTHING_HL_PLAYER_HAT_010_7`,
-            `CLOTHING_HL_PLAYER_HAT_010_8`,
-            `CLOTHING_HL_PLAYER_HAT_010_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_011_1`,
-            `CLOTHING_HL_PLAYER_HAT_011_10`,
-            `CLOTHING_HL_PLAYER_HAT_011_2`,
-            `CLOTHING_HL_PLAYER_HAT_011_3`,
-            `CLOTHING_HL_PLAYER_HAT_011_4`,
-            `CLOTHING_HL_PLAYER_HAT_011_5`,
-            `CLOTHING_HL_PLAYER_HAT_011_6`,
-            `CLOTHING_HL_PLAYER_HAT_011_7`,
-            `CLOTHING_HL_PLAYER_HAT_011_8`,
-            `CLOTHING_HL_PLAYER_HAT_011_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_012_1`,
-            `CLOTHING_HL_PLAYER_HAT_012_10`,
-            `CLOTHING_HL_PLAYER_HAT_012_2`,
-            `CLOTHING_HL_PLAYER_HAT_012_3`,
-            `CLOTHING_HL_PLAYER_HAT_012_4`,
-            `CLOTHING_HL_PLAYER_HAT_012_5`,
-            `CLOTHING_HL_PLAYER_HAT_012_6`,
-            `CLOTHING_HL_PLAYER_HAT_012_7`,
-            `CLOTHING_HL_PLAYER_HAT_012_8`,
-            `CLOTHING_HL_PLAYER_HAT_012_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_013_1`,
-            `CLOTHING_HL_PLAYER_HAT_013_10`,
-            `CLOTHING_HL_PLAYER_HAT_013_2`,
-            `CLOTHING_HL_PLAYER_HAT_013_3`,
-            `CLOTHING_HL_PLAYER_HAT_013_4`,
-            `CLOTHING_HL_PLAYER_HAT_013_5`,
-            `CLOTHING_HL_PLAYER_HAT_013_6`,
-            `CLOTHING_HL_PLAYER_HAT_013_7`,
-            `CLOTHING_HL_PLAYER_HAT_013_8`,
-            `CLOTHING_HL_PLAYER_HAT_013_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_015_1`,
-            `CLOTHING_HL_PLAYER_HAT_015_10`,
-            `CLOTHING_HL_PLAYER_HAT_015_2`,
-            `CLOTHING_HL_PLAYER_HAT_015_3`,
-            `CLOTHING_HL_PLAYER_HAT_015_4`,
-            `CLOTHING_HL_PLAYER_HAT_015_5`,
-            `CLOTHING_HL_PLAYER_HAT_015_6`,
-            `CLOTHING_HL_PLAYER_HAT_015_7`,
-            `CLOTHING_HL_PLAYER_HAT_015_8`,
-            `CLOTHING_HL_PLAYER_HAT_015_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_016_1`,
-            `CLOTHING_HL_PLAYER_HAT_016_2`,
-            `CLOTHING_HL_PLAYER_HAT_016_3`,
-            `CLOTHING_HL_PLAYER_HAT_016_4`,
-            `CLOTHING_HL_PLAYER_HAT_016_5`,
-            `CLOTHING_HL_PLAYER_HAT_016_7`,
-            `CLOTHING_HL_PLAYER_HAT_016_8`,
-            `CLOTHING_HL_PLAYER_HAT_016_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_027_1`,
-            `CLOTHING_HL_PLAYER_HAT_027_10`,
-            `CLOTHING_HL_PLAYER_HAT_027_2`,
-            `CLOTHING_HL_PLAYER_HAT_027_3`,
-            `CLOTHING_HL_PLAYER_HAT_027_4`,
-            `CLOTHING_HL_PLAYER_HAT_027_5`,
-            `CLOTHING_HL_PLAYER_HAT_027_6`,
-            `CLOTHING_HL_PLAYER_HAT_027_7`,
-            `CLOTHING_HL_PLAYER_HAT_027_8`,
-            `CLOTHING_HL_PLAYER_HAT_027_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_028_1`,
-            `CLOTHING_HL_PLAYER_HAT_028_10`,
-            `CLOTHING_HL_PLAYER_HAT_028_2`,
-            `CLOTHING_HL_PLAYER_HAT_028_3`,
-            `CLOTHING_HL_PLAYER_HAT_028_4`,
-            `CLOTHING_HL_PLAYER_HAT_028_5`,
-            `CLOTHING_HL_PLAYER_HAT_028_6`,
-            `CLOTHING_HL_PLAYER_HAT_028_7`,
-            `CLOTHING_HL_PLAYER_HAT_028_8`,
-            `CLOTHING_HL_PLAYER_HAT_028_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_029_1`,
-            `CLOTHING_HL_PLAYER_HAT_029_10`,
-            `CLOTHING_HL_PLAYER_HAT_029_2`,
-            `CLOTHING_HL_PLAYER_HAT_029_3`,
-            `CLOTHING_HL_PLAYER_HAT_029_4`,
-            `CLOTHING_HL_PLAYER_HAT_029_5`,
-            `CLOTHING_HL_PLAYER_HAT_029_6`,
-            `CLOTHING_HL_PLAYER_HAT_029_7`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_030_1`,
-            `CLOTHING_HL_PLAYER_HAT_030_10`,
-            `CLOTHING_HL_PLAYER_HAT_030_2`,
-            `CLOTHING_HL_PLAYER_HAT_030_3`,
-            `CLOTHING_HL_PLAYER_HAT_030_4`,
-            `CLOTHING_HL_PLAYER_HAT_030_5`,
-            `CLOTHING_HL_PLAYER_HAT_030_6`,
-            `CLOTHING_HL_PLAYER_HAT_030_7`,
-            `CLOTHING_HL_PLAYER_HAT_030_8`,
-            `CLOTHING_HL_PLAYER_HAT_030_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_031_1`,
-            `CLOTHING_HL_PLAYER_HAT_031_10`,
-            `CLOTHING_HL_PLAYER_HAT_031_2`,
-            `CLOTHING_HL_PLAYER_HAT_031_4`,
-            `CLOTHING_HL_PLAYER_HAT_031_5`,
-            `CLOTHING_HL_PLAYER_HAT_031_6`,
-            `CLOTHING_HL_PLAYER_HAT_031_7`,
-            `CLOTHING_HL_PLAYER_HAT_031_8`,
-            `CLOTHING_HL_PLAYER_HAT_031_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_032_1`,
-            `CLOTHING_HL_PLAYER_HAT_032_10`,
-            `CLOTHING_HL_PLAYER_HAT_032_2`,
-            `CLOTHING_HL_PLAYER_HAT_032_3`,
-            `CLOTHING_HL_PLAYER_HAT_032_4`,
-            `CLOTHING_HL_PLAYER_HAT_032_6`,
-            `CLOTHING_HL_PLAYER_HAT_032_7`,
-            `CLOTHING_HL_PLAYER_HAT_032_8`,
-            `CLOTHING_HL_PLAYER_HAT_032_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_033_1`,
-            `CLOTHING_HL_PLAYER_HAT_033_10`,
-            `CLOTHING_HL_PLAYER_HAT_033_2`,
-            `CLOTHING_HL_PLAYER_HAT_033_3`,
-            `CLOTHING_HL_PLAYER_HAT_033_4`,
-            `CLOTHING_HL_PLAYER_HAT_033_5`,
-            `CLOTHING_HL_PLAYER_HAT_033_6`,
-            `CLOTHING_HL_PLAYER_HAT_033_7`,
-            `CLOTHING_HL_PLAYER_HAT_033_8`,
-            `CLOTHING_HL_PLAYER_HAT_033_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_034_1`,
-            `CLOTHING_HL_PLAYER_HAT_034_10`,
-            `CLOTHING_HL_PLAYER_HAT_034_2`,
-            `CLOTHING_HL_PLAYER_HAT_034_3`,
-            `CLOTHING_HL_PLAYER_HAT_034_4`,
-            `CLOTHING_HL_PLAYER_HAT_034_5`,
-            `CLOTHING_HL_PLAYER_HAT_034_6`,
-            `CLOTHING_HL_PLAYER_HAT_034_8`,
-            `CLOTHING_HL_PLAYER_HAT_034_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_038_1`,
-            `CLOTHING_HL_PLAYER_HAT_038_11`,
-            `CLOTHING_HL_PLAYER_HAT_038_2`,
-            `CLOTHING_HL_PLAYER_HAT_038_3`,
-            `CLOTHING_HL_PLAYER_HAT_038_4`,
-            `CLOTHING_HL_PLAYER_HAT_038_6`,
-            `CLOTHING_HL_PLAYER_HAT_038_7`,
-            `CLOTHING_HL_PLAYER_HAT_038_8`,
-            `CLOTHING_HL_PLAYER_HAT_038_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_040_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_041_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_042_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_043_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_044_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_045_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_046_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_047_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_048_1`,
-            `CLOTHING_HL_PLAYER_HAT_048_2`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_050_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_052_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_053_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_054_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_056_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_057_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_058_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_059_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_060_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_061_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_062_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_063_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_064_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_065_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_066_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_067_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_068_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_069_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_070_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_071_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_072_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_HAT_073_1`,
-        },
-        {
-            `CLOTHING_ITEM_HAT_PZERO_000`,
         },
         {
             `CLOTHING_ITEM_M_FRONTIER_HAT_000`,
@@ -6824,95 +5551,6 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_VAQUERO_HAT_000`,
         },
         {
-            `CLOTHING_ITEM_PZ_HAT_PIRATE_01`,
-        },
-        {
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_000`,
-        },
-        {
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_002_ALT02`,
-        },
-        {
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_004`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_005`,
-        },
-        {
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_006_ALT02`,
-        },
-        {
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_007_ALT02`,
-        },
-        {
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_008`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_012`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_013`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_015`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_016`,
-        },
-        {
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_017_ALT02`,
-        },
-        {
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_019_ALT01`,
-        },
-        {
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_020`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_021`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_025`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_026`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_041`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_045`,
-        },
-        {
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_047_ALT02`,
-        },
-        {
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_048`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_050`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_051`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_052`,
-        },
-        {
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_053_ALT02`,
-        },
-        {
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_055`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_058`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_060`,
-        },
-        {
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_063_ALT01`,
-        },
-        {
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_068`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_069`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_075`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_079`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_086`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_087`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_088`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_089`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_093`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_100`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_102`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_103`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_104`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_105`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_109`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_111`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_112`,
-            `CLOTHING_ITEM_SP_COLLECTABLE_HAT_MR1_133`,
-        },
-        {
-            `CLOTHING_ITEM_SP_EXOTICCOLLECTOR_HAT_000`,
-        },
-        {
-            `CLOTHING_ITEM_SP_FISHCOLLECTOR_HAT_000`,
-        },
-        {
-            `CLOTHING_ITEM_SP_VALSHERIFF_HAT_000`,
-        },
-        {
             `CLOTHING_M_R4_NECKTIE_239_TINT_016`,
         },
         {
@@ -6921,52 +5559,9 @@ gComponents.mp_male = {
         {
             `CLOTHING_M_SEASON3_NIGHTCAP_001_TINT_001`,
         },
-        {
-            `CLOTHING_P3_PLAYER_THREE_MS1_HAT_000_000`,
-        },
-        {
-            `CLOTHING_P3_PLAYER_THREE_MS1_HAT_001_000`,
-        },
-        {
-            `CLOTHING_SP_CHINESE_LABOR_HAT_000_1`,
-        },
-        {
-            `CLOTHING_SP_CIVIL_WAR_HAT_000_1`,
-        },
-        {
-            `CLOTHING_SP_CONQUISTADOR_HAT_000_1`,
-        },
-        {
-            `CLOTHING_SP_DEAD_MINER_HAT_000_1`,
-        },
-        {
-            `CLOTHING_SP_SCARECROW_01_HAT_000_1`,
-        },
-        {
-            `CLOTHING_SP_SCARECROW_02_HAT_000_1`,
-        },
-        {
-            `CLOTHING_SP_SCARECROW_03_HAT_000_1`,
-        },
-        {
-            `CLOTHING_SP_SCARECROW_04_HAT_000_1`,
-        },
-        {
-            `CLOTHING_SP_VIKING_HAT_000_1`,
-        },
     },
     heads = {
         {
-            121334374,
-            128860735,
-            517496604,
-            566908002,
-            1497781045,
-            1744812031,
-            2112676615,
-            2550954673,
-            2871878008,
-            3322561239,
             970109184,
             1552938618,
             1992764136,
@@ -7132,25 +5727,9 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_HEAD_028_V_005`,
             `CLOTHING_ITEM_M_HEAD_028_V_006`,
         },
-        {
-            `CLOTHING_ITEM_PZ_HEAD_000`,
-        },
-    },
-    holstersCrossdraw = {
-        {
-            22764881,
-        },
-    },
-    holstersKnife = {
-        {
-            1796687236,
-            2624506225,
-            2775642691,
-        },
     },
     holstersLeft = {
         {
-            2779093146,
             1072938722,
             1968428525,
             2173087517,
@@ -7282,83 +5861,6 @@ gComponents.mp_male = {
             `CLOTHING_M_R4_OFFHAND_000_TINT_004`,
             `CLOTHING_M_R4_OFFHAND_000_TINT_005`,
             `CLOTHING_M_R4_OFFHAND_000_TINT_006`,
-        },
-        {
-            `CLOTHING_SP_OFFHAND_000`,
-        },
-        {
-            `CLOTHING_SP_OFFHAND_004`,
-        },
-        {
-            `PROVISION_REINFORCED_OFFHAND_BEAR`,
-        },
-        {
-            `PROVISION_REINFORCED_OFFHAND_BOAR`,
-        },
-        {
-            `PROVISION_REINFORCED_OFFHAND_BUFFALO`,
-        },
-        {
-            `PROVISION_REINFORCED_OFFHAND_COUGAR`,
-        },
-        {
-            `PROVISION_REINFORCED_OFFHAND_DEER`,
-        },
-        {
-            `PROVISION_REINFORCED_OFFHAND_GATOR`,
-        },
-        {
-            `PROVISION_REINFORCED_OFFHAND_PANTHER`,
-        },
-        {
-            `PROVISION_REINFORCED_OFFHAND_RABBIT`,
-        },
-        {
-            `PROVISION_REINFORCED_OFFHAND_SNAKE`,
-        },
-        {
-            `UPGRADE_OFFHAND_HOLSTER`,
-        },
-    },
-    holstersRight = {
-        {
-            2302423248,
-            2604553115,
-            2848712459,
-            3012632333,
-            3730657041,
-            3903886445,
-            4290526492,
-        },
-        {
-            `PROVISION_REINFORCED_HOLSTER_BEAR`,
-        },
-        {
-            `PROVISION_REINFORCED_HOLSTER_BOAR`,
-        },
-        {
-            `PROVISION_REINFORCED_HOLSTER_BUFFALO`,
-        },
-        {
-            `PROVISION_REINFORCED_HOLSTER_COUGAR`,
-        },
-        {
-            `PROVISION_REINFORCED_HOLSTER_DEER`,
-        },
-        {
-            `PROVISION_REINFORCED_HOLSTER_GATOR`,
-        },
-        {
-            `PROVISION_REINFORCED_HOLSTER_PANTHER`,
-        },
-        {
-            `PROVISION_REINFORCED_HOLSTER_RABBIT`,
-        },
-        {
-            `PROVISION_REINFORCED_HOLSTER_SNAKE`,
-        },
-        {
-            `UPGRADE_HOLSTER`,
         },
     },
     jewelryBracelets = {
@@ -7579,39 +6081,6 @@ gComponents.mp_male = {
         {
             `CLOTHING_ITEM_M_SEASONAL_005_BANDOLIER_VAR_001`,
         },
-        {
-            `CLOTHING_ITEM_PZ_LOADOUT_BANDOLIER_01`,
-        },
-        {
-            `PROVISION_REINFORCED_BANDOLIER_BEAR`,
-        },
-        {
-            `PROVISION_REINFORCED_BANDOLIER_BOAR`,
-        },
-        {
-            `PROVISION_REINFORCED_BANDOLIER_BUFFALO`,
-        },
-        {
-            `PROVISION_REINFORCED_BANDOLIER_COUGAR`,
-        },
-        {
-            `PROVISION_REINFORCED_BANDOLIER_DEER`,
-        },
-        {
-            `PROVISION_REINFORCED_BANDOLIER_GATOR`,
-        },
-        {
-            `PROVISION_REINFORCED_BANDOLIER_PANTHER`,
-        },
-        {
-            `PROVISION_REINFORCED_BANDOLIER_RABBIT`,
-        },
-        {
-            `PROVISION_REINFORCED_BANDOLIER_SNAKE`,
-        },
-        {
-            `UPGRADE_BANDOLIER`,
-        },
     },
     masks = {
         {
@@ -7751,8 +6220,6 @@ gComponents.mp_male = {
     },
     neckties = {
         {
-            3746172370,
-            4168180784,
             258520866,
             278804881,
             332829865,
@@ -7780,34 +6247,6 @@ gComponents.mp_male = {
             3774576635,
             4165019274,
             4261669120,
-        },
-        {
-            `CLOTHING_HL_PLAYER_NECKTIE_002_1`,
-            `CLOTHING_HL_PLAYER_NECKTIE_002_10`,
-            `CLOTHING_HL_PLAYER_NECKTIE_002_2`,
-            `CLOTHING_HL_PLAYER_NECKTIE_002_3`,
-            `CLOTHING_HL_PLAYER_NECKTIE_002_4`,
-            `CLOTHING_HL_PLAYER_NECKTIE_002_5`,
-            `CLOTHING_HL_PLAYER_NECKTIE_002_6`,
-            `CLOTHING_HL_PLAYER_NECKTIE_002_7`,
-            `CLOTHING_HL_PLAYER_NECKTIE_002_8`,
-            `CLOTHING_HL_PLAYER_NECKTIE_002_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_NECKTIE_003_1`,
-            `CLOTHING_HL_PLAYER_NECKTIE_003_10`,
-            `CLOTHING_HL_PLAYER_NECKTIE_003_2`,
-            `CLOTHING_HL_PLAYER_NECKTIE_003_3`,
-            `CLOTHING_HL_PLAYER_NECKTIE_003_4`,
-            `CLOTHING_HL_PLAYER_NECKTIE_003_5`,
-            `CLOTHING_HL_PLAYER_NECKTIE_003_6`,
-            `CLOTHING_HL_PLAYER_NECKTIE_003_7`,
-            `CLOTHING_HL_PLAYER_NECKTIE_003_8`,
-            `CLOTHING_HL_PLAYER_NECKTIE_003_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_NECKTIE_004_3`,
-            `CLOTHING_HL_PLAYER_NECKTIE_004_7`,
         },
         {
             `CLOTHING_ITEM_M_NECKTIE_000_TINT_001`,
@@ -7920,14 +6359,9 @@ gComponents.mp_male = {
         {
             `CLOTHING_ITEM_M_SEASONAL_005_NECKTIE_VAR_001`,
         },
-        {
-            `CLOTHING_ITEM_NECKTIES_PZERO_001`,
-        },
     },
     neckwear = {
         {
-            2088125723,
-            3842564726,
             58261418,
             127765467,
             128617035,
@@ -8287,30 +6721,11 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_VAQUERO_NECKWEAR_000`,
         },
         {
-            `CLOTHING_ITEM_PZ_NECKERCHIEF_001`,
-        },
-        {
             `CLOTHING_M_SEASON3_MASK_001_TINT_001`,
-        },
-        {
-            `KIT_BANDANA`,
-        },
-        {
-            `PROVISION_TALISMAN_BOAR_TUSK`,
         },
     },
     pants = {
         {
-            219228604,
-            241073852,
-            423602290,
-            591943210,
-            795188817,
-            2725958797,
-            2773691551,
-            3082092289,
-            3538234790,
-            4193821981,
             16798151,
             28202123,
             90922833,
@@ -8464,156 +6879,6 @@ gComponents.mp_male = {
             4242884662,
             4262541935,
             4288712047,
-        },
-        {
-            `CLOTHING_HL_PLAYER_PANTS_000_1`,
-            `CLOTHING_HL_PLAYER_PANTS_000_10`,
-            `CLOTHING_HL_PLAYER_PANTS_000_11`,
-            `CLOTHING_HL_PLAYER_PANTS_000_12`,
-            `CLOTHING_HL_PLAYER_PANTS_000_13`,
-            `CLOTHING_HL_PLAYER_PANTS_000_14`,
-            `CLOTHING_HL_PLAYER_PANTS_000_15`,
-            `CLOTHING_HL_PLAYER_PANTS_000_16`,
-            `CLOTHING_HL_PLAYER_PANTS_000_17`,
-            `CLOTHING_HL_PLAYER_PANTS_000_18`,
-            `CLOTHING_HL_PLAYER_PANTS_000_19`,
-            `CLOTHING_HL_PLAYER_PANTS_000_2`,
-            `CLOTHING_HL_PLAYER_PANTS_000_20`,
-            `CLOTHING_HL_PLAYER_PANTS_000_21`,
-            `CLOTHING_HL_PLAYER_PANTS_000_25`,
-            `CLOTHING_HL_PLAYER_PANTS_000_26`,
-            `CLOTHING_HL_PLAYER_PANTS_000_27`,
-            `CLOTHING_HL_PLAYER_PANTS_000_28`,
-            `CLOTHING_HL_PLAYER_PANTS_000_29`,
-            `CLOTHING_HL_PLAYER_PANTS_000_3`,
-            `CLOTHING_HL_PLAYER_PANTS_000_30`,
-            `CLOTHING_HL_PLAYER_PANTS_000_31`,
-            `CLOTHING_HL_PLAYER_PANTS_000_32`,
-            `CLOTHING_HL_PLAYER_PANTS_000_33`,
-            `CLOTHING_HL_PLAYER_PANTS_000_34`,
-            `CLOTHING_HL_PLAYER_PANTS_000_35`,
-            `CLOTHING_HL_PLAYER_PANTS_000_36`,
-            `CLOTHING_HL_PLAYER_PANTS_000_37`,
-            `CLOTHING_HL_PLAYER_PANTS_000_38`,
-            `CLOTHING_HL_PLAYER_PANTS_000_39`,
-            `CLOTHING_HL_PLAYER_PANTS_000_4`,
-            `CLOTHING_HL_PLAYER_PANTS_000_40`,
-            `CLOTHING_HL_PLAYER_PANTS_000_41`,
-            `CLOTHING_HL_PLAYER_PANTS_000_42`,
-            `CLOTHING_HL_PLAYER_PANTS_000_43`,
-            `CLOTHING_HL_PLAYER_PANTS_000_44`,
-            `CLOTHING_HL_PLAYER_PANTS_000_45`,
-            `CLOTHING_HL_PLAYER_PANTS_000_46`,
-            `CLOTHING_HL_PLAYER_PANTS_000_47`,
-            `CLOTHING_HL_PLAYER_PANTS_000_48`,
-            `CLOTHING_HL_PLAYER_PANTS_000_49`,
-            `CLOTHING_HL_PLAYER_PANTS_000_5`,
-            `CLOTHING_HL_PLAYER_PANTS_000_50`,
-            `CLOTHING_HL_PLAYER_PANTS_000_51`,
-            `CLOTHING_HL_PLAYER_PANTS_000_52`,
-            `CLOTHING_HL_PLAYER_PANTS_000_53`,
-            `CLOTHING_HL_PLAYER_PANTS_000_54`,
-            `CLOTHING_HL_PLAYER_PANTS_000_55`,
-            `CLOTHING_HL_PLAYER_PANTS_000_56`,
-            `CLOTHING_HL_PLAYER_PANTS_000_57`,
-            `CLOTHING_HL_PLAYER_PANTS_000_58`,
-            `CLOTHING_HL_PLAYER_PANTS_000_59`,
-            `CLOTHING_HL_PLAYER_PANTS_000_6`,
-            `CLOTHING_HL_PLAYER_PANTS_000_60`,
-            `CLOTHING_HL_PLAYER_PANTS_000_61`,
-            `CLOTHING_HL_PLAYER_PANTS_000_62`,
-            `CLOTHING_HL_PLAYER_PANTS_000_63`,
-            `CLOTHING_HL_PLAYER_PANTS_000_64`,
-            `CLOTHING_HL_PLAYER_PANTS_000_65`,
-            `CLOTHING_HL_PLAYER_PANTS_000_66`,
-            `CLOTHING_HL_PLAYER_PANTS_000_67`,
-            `CLOTHING_HL_PLAYER_PANTS_000_68`,
-            `CLOTHING_HL_PLAYER_PANTS_000_7`,
-            `CLOTHING_HL_PLAYER_PANTS_000_8`,
-            `CLOTHING_HL_PLAYER_PANTS_000_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_PANTS_006_1`,
-            `CLOTHING_HL_PLAYER_PANTS_006_10`,
-            `CLOTHING_HL_PLAYER_PANTS_006_2`,
-            `CLOTHING_HL_PLAYER_PANTS_006_3`,
-            `CLOTHING_HL_PLAYER_PANTS_006_4`,
-            `CLOTHING_HL_PLAYER_PANTS_006_5`,
-            `CLOTHING_HL_PLAYER_PANTS_006_6`,
-            `CLOTHING_HL_PLAYER_PANTS_006_7`,
-            `CLOTHING_HL_PLAYER_PANTS_006_8`,
-            `CLOTHING_HL_PLAYER_PANTS_006_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_PANTS_007_1`,
-            `CLOTHING_HL_PLAYER_PANTS_007_10`,
-            `CLOTHING_HL_PLAYER_PANTS_007_11`,
-            `CLOTHING_HL_PLAYER_PANTS_007_12`,
-            `CLOTHING_HL_PLAYER_PANTS_007_16`,
-            `CLOTHING_HL_PLAYER_PANTS_007_17`,
-            `CLOTHING_HL_PLAYER_PANTS_007_18`,
-            `CLOTHING_HL_PLAYER_PANTS_007_19`,
-            `CLOTHING_HL_PLAYER_PANTS_007_2`,
-            `CLOTHING_HL_PLAYER_PANTS_007_20`,
-            `CLOTHING_HL_PLAYER_PANTS_007_21`,
-            `CLOTHING_HL_PLAYER_PANTS_007_22`,
-            `CLOTHING_HL_PLAYER_PANTS_007_23`,
-            `CLOTHING_HL_PLAYER_PANTS_007_24`,
-            `CLOTHING_HL_PLAYER_PANTS_007_25`,
-            `CLOTHING_HL_PLAYER_PANTS_007_26`,
-            `CLOTHING_HL_PLAYER_PANTS_007_3`,
-            `CLOTHING_HL_PLAYER_PANTS_007_4`,
-            `CLOTHING_HL_PLAYER_PANTS_007_5`,
-            `CLOTHING_HL_PLAYER_PANTS_007_6`,
-            `CLOTHING_HL_PLAYER_PANTS_007_7`,
-            `CLOTHING_HL_PLAYER_PANTS_007_8`,
-            `CLOTHING_HL_PLAYER_PANTS_007_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_PANTS_011_1`,
-            `CLOTHING_HL_PLAYER_PANTS_011_10`,
-            `CLOTHING_HL_PLAYER_PANTS_011_11`,
-            `CLOTHING_HL_PLAYER_PANTS_011_2`,
-            `CLOTHING_HL_PLAYER_PANTS_011_3`,
-            `CLOTHING_HL_PLAYER_PANTS_011_4`,
-            `CLOTHING_HL_PLAYER_PANTS_011_5`,
-            `CLOTHING_HL_PLAYER_PANTS_011_6`,
-            `CLOTHING_HL_PLAYER_PANTS_011_7`,
-            `CLOTHING_HL_PLAYER_PANTS_011_8`,
-            `CLOTHING_HL_PLAYER_PANTS_011_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_PANTS_012_1`,
-            `CLOTHING_HL_PLAYER_PANTS_012_10`,
-            `CLOTHING_HL_PLAYER_PANTS_012_2`,
-            `CLOTHING_HL_PLAYER_PANTS_012_3`,
-            `CLOTHING_HL_PLAYER_PANTS_012_4`,
-            `CLOTHING_HL_PLAYER_PANTS_012_5`,
-            `CLOTHING_HL_PLAYER_PANTS_012_6`,
-            `CLOTHING_HL_PLAYER_PANTS_012_7`,
-            `CLOTHING_HL_PLAYER_PANTS_012_8`,
-            `CLOTHING_HL_PLAYER_PANTS_012_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_PANTS_013_1`,
-            `CLOTHING_HL_PLAYER_PANTS_013_10`,
-            `CLOTHING_HL_PLAYER_PANTS_013_11`,
-            `CLOTHING_HL_PLAYER_PANTS_013_13`,
-            `CLOTHING_HL_PLAYER_PANTS_013_14`,
-            `CLOTHING_HL_PLAYER_PANTS_013_15`,
-            `CLOTHING_HL_PLAYER_PANTS_013_16`,
-            `CLOTHING_HL_PLAYER_PANTS_013_17`,
-            `CLOTHING_HL_PLAYER_PANTS_013_18`,
-            `CLOTHING_HL_PLAYER_PANTS_013_19`,
-            `CLOTHING_HL_PLAYER_PANTS_013_2`,
-            `CLOTHING_HL_PLAYER_PANTS_013_20`,
-            `CLOTHING_HL_PLAYER_PANTS_013_21`,
-            `CLOTHING_HL_PLAYER_PANTS_013_3`,
-            `CLOTHING_HL_PLAYER_PANTS_013_5`,
-            `CLOTHING_HL_PLAYER_PANTS_013_6`,
-            `CLOTHING_HL_PLAYER_PANTS_013_7`,
-            `CLOTHING_HL_PLAYER_PANTS_013_8`,
-            `CLOTHING_HL_PLAYER_PANTS_013_9`,
         },
         {
             `CLOTHING_ITEM_M_FRONTIER_PANTS_000`,
@@ -9043,18 +7308,6 @@ gComponents.mp_male = {
         {
             `CLOTHING_ITEM_M_VAQUERO_PANTS_000`,
         },
-        {
-            `CLOTHING_SP_PANTS_FANCY01_VARIATION_01`,
-        },
-        {
-            `CLOTHING_SP_PANTS_ISLAND01_VARIATION_01`,
-        },
-        {
-            `CLOTHING_SP_PANTS_POLICE01_VARIATION_01`,
-        },
-        {
-            `CLOTHING_SP_PANTS_RANCHER01_VARIATION_01`,
-        },
     },
     ponchos = {
         {
@@ -9188,50 +7441,15 @@ gComponents.mp_male = {
     },
     satchels = {
         {
-            2062571572,
             3928436241,
         },
         {
-            `CLOTHING_HL_PLAYER_SATCHEL_002_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SATCHEL_003_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SATCHEL_004_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SATCHEL_005_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SATCHEL_006_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SATCHEL_007_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SATCHEL_008_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SATCHEL_009_1`,
-        },
-        {
             `CLOTHING_ITEM_M_SATCHEL_001`,
             `CLOTHING_ITEM_M_SATCHEL_001`,
-        },
-        {
-            `CLOTHING_ITEM_SATCHEL_PZ_000`,
         },
     },
     shirtsFull = {
         {
-            342833122,
-            991369766,
-            1278327899,
-            1356137803,
-            1380773680,
-            1429623099,
-            1734931872,
             2183442,
             22796925,
             83181848,
@@ -9350,90 +7568,6 @@ gComponents.mp_male = {
             4148667837,
             4156286072,
             4210864392,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SHIRT_000_1`,
-            `CLOTHING_HL_PLAYER_SHIRT_000_13`,
-            `CLOTHING_HL_PLAYER_SHIRT_000_14`,
-            `CLOTHING_HL_PLAYER_SHIRT_000_15`,
-            `CLOTHING_HL_PLAYER_SHIRT_000_16`,
-            `CLOTHING_HL_PLAYER_SHIRT_000_17`,
-            `CLOTHING_HL_PLAYER_SHIRT_000_2`,
-            `CLOTHING_HL_PLAYER_SHIRT_000_21`,
-            `CLOTHING_HL_PLAYER_SHIRT_000_22`,
-            `CLOTHING_HL_PLAYER_SHIRT_000_23`,
-            `CLOTHING_HL_PLAYER_SHIRT_000_24`,
-            `CLOTHING_HL_PLAYER_SHIRT_000_25`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SHIRT_005_1`,
-            `CLOTHING_HL_PLAYER_SHIRT_005_10`,
-            `CLOTHING_HL_PLAYER_SHIRT_005_11`,
-            `CLOTHING_HL_PLAYER_SHIRT_005_14`,
-            `CLOTHING_HL_PLAYER_SHIRT_005_2`,
-            `CLOTHING_HL_PLAYER_SHIRT_005_3`,
-            `CLOTHING_HL_PLAYER_SHIRT_005_4`,
-            `CLOTHING_HL_PLAYER_SHIRT_005_5`,
-            `CLOTHING_HL_PLAYER_SHIRT_005_6`,
-            `CLOTHING_HL_PLAYER_SHIRT_005_7`,
-            `CLOTHING_HL_PLAYER_SHIRT_005_8`,
-            `CLOTHING_HL_PLAYER_SHIRT_005_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SHIRT_006_1`,
-            `CLOTHING_HL_PLAYER_SHIRT_006_15`,
-            `CLOTHING_HL_PLAYER_SHIRT_006_16`,
-            `CLOTHING_HL_PLAYER_SHIRT_006_17`,
-            `CLOTHING_HL_PLAYER_SHIRT_006_2`,
-            `CLOTHING_HL_PLAYER_SHIRT_006_3`,
-            `CLOTHING_HL_PLAYER_SHIRT_006_4`,
-            `CLOTHING_HL_PLAYER_SHIRT_006_5`,
-            `CLOTHING_HL_PLAYER_SHIRT_006_6`,
-            `CLOTHING_HL_PLAYER_SHIRT_006_7`,
-            `CLOTHING_HL_PLAYER_SHIRT_006_8`,
-            `CLOTHING_HL_PLAYER_SHIRT_006_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SHIRT_009_1`,
-            `CLOTHING_HL_PLAYER_SHIRT_009_10`,
-            `CLOTHING_HL_PLAYER_SHIRT_009_12`,
-            `CLOTHING_HL_PLAYER_SHIRT_009_13`,
-            `CLOTHING_HL_PLAYER_SHIRT_009_2`,
-            `CLOTHING_HL_PLAYER_SHIRT_009_3`,
-            `CLOTHING_HL_PLAYER_SHIRT_009_4`,
-            `CLOTHING_HL_PLAYER_SHIRT_009_5`,
-            `CLOTHING_HL_PLAYER_SHIRT_009_6`,
-            `CLOTHING_HL_PLAYER_SHIRT_009_7`,
-            `CLOTHING_HL_PLAYER_SHIRT_009_8`,
-            `CLOTHING_HL_PLAYER_SHIRT_009_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SHIRT_010_1`,
-            `CLOTHING_HL_PLAYER_SHIRT_010_2`,
-            `CLOTHING_HL_PLAYER_SHIRT_010_3`,
-            `CLOTHING_HL_PLAYER_SHIRT_010_4`,
-            `CLOTHING_HL_PLAYER_SHIRT_010_5`,
-            `CLOTHING_HL_PLAYER_SHIRT_010_6`,
-            `CLOTHING_HL_PLAYER_SHIRT_010_7`,
-            `CLOTHING_HL_PLAYER_SHIRT_010_8`,
-            `CLOTHING_HL_PLAYER_SHIRT_010_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_UST_000_1`,
-            `CLOTHING_HL_PLAYER_UST_000_17`,
-            `CLOTHING_HL_PLAYER_UST_000_18`,
-            `CLOTHING_HL_PLAYER_UST_000_19`,
-            `CLOTHING_HL_PLAYER_UST_000_2`,
-            `CLOTHING_HL_PLAYER_UST_000_20`,
-            `CLOTHING_HL_PLAYER_UST_000_21`,
-            `CLOTHING_HL_PLAYER_UST_000_22`,
-            `CLOTHING_HL_PLAYER_UST_000_29`,
-            `CLOTHING_HL_PLAYER_UST_000_3`,
-            `CLOTHING_HL_PLAYER_UST_000_4`,
-            `CLOTHING_HL_PLAYER_UST_000_5`,
-            `CLOTHING_HL_PLAYER_UST_000_6`,
-            `CLOTHING_HL_PLAYER_UST_000_7`,
-            `CLOTHING_HL_PLAYER_UST_000_8`,
         },
         {
             `CLOTHING_ITEM_M_FRONTIER_SHIRT_000`,
@@ -9869,22 +8003,9 @@ gComponents.mp_male = {
         {
             `CLOTHING_ITEM_M_VAQUERO_SHIRT_000`,
         },
-        {
-            `CLOTHING_SP_COAT_POLICE01_VARIATION_01`,
-        },
-        {
-            `CLOTHING_SP_SHIRT_BOUNTY01_VARIATION_01`,
-        },
-        {
-            `CLOTHING_SP_SHIRT_FANCY01_VARIATION_01`,
-        },
-        {
-            `CLOTHING_SP_SHIRT_ISLAND01_VARIATION_01`,
-        },
     },
     spats = {
         {
-            2503824014,
             160388387,
             215024019,
             295343796,
@@ -9941,55 +8062,6 @@ gComponents.mp_male = {
             4247580121,
             4248018008,
             4264550095,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPATS_000_1`,
-            `CLOTHING_HL_PLAYER_SPATS_000_10`,
-            `CLOTHING_HL_PLAYER_SPATS_000_11`,
-            `CLOTHING_HL_PLAYER_SPATS_000_2`,
-            `CLOTHING_HL_PLAYER_SPATS_000_3`,
-            `CLOTHING_HL_PLAYER_SPATS_000_4`,
-            `CLOTHING_HL_PLAYER_SPATS_000_5`,
-            `CLOTHING_HL_PLAYER_SPATS_000_6`,
-            `CLOTHING_HL_PLAYER_SPATS_000_7`,
-            `CLOTHING_HL_PLAYER_SPATS_000_8`,
-            `CLOTHING_HL_PLAYER_SPATS_000_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPATS_001_1`,
-            `CLOTHING_HL_PLAYER_SPATS_001_10`,
-            `CLOTHING_HL_PLAYER_SPATS_001_2`,
-            `CLOTHING_HL_PLAYER_SPATS_001_3`,
-            `CLOTHING_HL_PLAYER_SPATS_001_4`,
-            `CLOTHING_HL_PLAYER_SPATS_001_5`,
-            `CLOTHING_HL_PLAYER_SPATS_001_6`,
-            `CLOTHING_HL_PLAYER_SPATS_001_7`,
-            `CLOTHING_HL_PLAYER_SPATS_001_8`,
-            `CLOTHING_HL_PLAYER_SPATS_001_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPATS_005_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPATS_006_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPATS_008_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPATS_010_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPATS_011_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPATS_012_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPATS_013_1`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SPATS_014_1`,
         },
         {
             `CLOTHING_ITEM_M_ROUGHRIDER_SPATS_000`,
@@ -10104,8 +8176,6 @@ gComponents.mp_male = {
     },
     suspenders = {
         {
-            1829271380,
-            2815290590,
             246280085,
             2756271934,
             2893785846,
@@ -10114,56 +8184,6 @@ gComponents.mp_male = {
             3583966588,
             3610706024,
             3928630926,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SUSPENDERS_000_1`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_000_10`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_000_2`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_000_3`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_000_4`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_000_5`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_000_6`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_000_7`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_000_8`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_000_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SUSPENDERS_005_1`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_005_10`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_005_2`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_005_3`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_005_4`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_005_5`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_005_6`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_005_7`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_005_8`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_005_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SUSPENDERS_006_1`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_006_10`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_006_11`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_006_12`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_006_2`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_006_3`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_006_4`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_006_5`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_006_6`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_006_7`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_006_8`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_006_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_SUSPENDERS_007_1`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_007_10`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_007_2`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_007_3`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_007_4`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_007_5`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_007_6`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_007_7`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_007_8`,
-            `CLOTHING_HL_PLAYER_SUSPENDERS_007_9`,
         },
         {
             `CLOTHING_ITEM_M_RANCHER_SUSPENDERS_VAR_001`,
@@ -10249,37 +8269,8 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_SUSPENDERS_200_TINT_009`,
             `CLOTHING_ITEM_M_SUSPENDERS_200_TINT_010`,
         },
-        {
-            `CLOTHING_SP_SUSPENDERS_HUNTER01_VARIATION_01`,
-        },
-        {
-            `CLOTHING_SP_SUSPENDERS_ISLAND01_VARIATION_01`,
-        },
-    },
-    talismanBelt = {
-        {
-            `PROVISION_TALISMAN_BEAR_CLAW`,
-        },
-    },
-    talismanHolster = {
-        {
-            `PROVISION_TALISMAN_RAVEN_CLAW`,
-        },
-    },
-    talismanSatchel = {
-        {
-            `PROVISION_TALISMAN_BUFFALO_HORN`,
-        },
-    },
-    talismanWrist = {
-        {
-            `PROVISION_TALISMAN_ALLIGATOR_TOOTH`,
-        },
     },
     teeth = {
-        {
-            350323462,
-        },
         {
             `CLOTHING_ITEM_M_TEETH_000`,
         },
@@ -10301,32 +8292,9 @@ gComponents.mp_male = {
         {
             `CLOTHING_ITEM_M_TEETH_006`,
         },
-        {
-            `CLOTHING_ITEM_SKIN_TEETH_PZ_000`,
-        },
     },
     vests = {
         {
-            57610788,
-            82377435,
-            185998195,
-            475061862,
-            481065880,
-            962344255,
-            1294112150,
-            1692201364,
-            2390435316,
-            2861944612,
-            2879153652,
-            2903074874,
-            3121438838,
-            3222585794,
-            3295909646,
-            3706809335,
-            3817568775,
-            3824234482,
-            3832232429,
-            4121300307,
             150973636,
             179183007,
             212157959,
@@ -10371,85 +8339,6 @@ gComponents.mp_male = {
             4201869225,
             4272731863,
             4278266547,
-        },
-        {
-            `CLOTHING_HL_PLAYER_VEST_000_1`,
-            `CLOTHING_HL_PLAYER_VEST_000_10`,
-            `CLOTHING_HL_PLAYER_VEST_000_11`,
-            `CLOTHING_HL_PLAYER_VEST_000_2`,
-            `CLOTHING_HL_PLAYER_VEST_000_3`,
-            `CLOTHING_HL_PLAYER_VEST_000_4`,
-            `CLOTHING_HL_PLAYER_VEST_000_5`,
-            `CLOTHING_HL_PLAYER_VEST_000_6`,
-            `CLOTHING_HL_PLAYER_VEST_000_7`,
-            `CLOTHING_HL_PLAYER_VEST_000_8`,
-            `CLOTHING_HL_PLAYER_VEST_000_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_VEST_003_10`,
-            `CLOTHING_HL_PLAYER_VEST_003_7`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_VEST_004_1`,
-            `CLOTHING_HL_PLAYER_VEST_004_10`,
-            `CLOTHING_HL_PLAYER_VEST_004_2`,
-            `CLOTHING_HL_PLAYER_VEST_004_3`,
-            `CLOTHING_HL_PLAYER_VEST_004_4`,
-            `CLOTHING_HL_PLAYER_VEST_004_5`,
-            `CLOTHING_HL_PLAYER_VEST_004_6`,
-            `CLOTHING_HL_PLAYER_VEST_004_7`,
-            `CLOTHING_HL_PLAYER_VEST_004_8`,
-            `CLOTHING_HL_PLAYER_VEST_004_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_VEST_009_1`,
-            `CLOTHING_HL_PLAYER_VEST_009_10`,
-            `CLOTHING_HL_PLAYER_VEST_009_2`,
-            `CLOTHING_HL_PLAYER_VEST_009_3`,
-            `CLOTHING_HL_PLAYER_VEST_009_4`,
-            `CLOTHING_HL_PLAYER_VEST_009_5`,
-            `CLOTHING_HL_PLAYER_VEST_009_6`,
-            `CLOTHING_HL_PLAYER_VEST_009_7`,
-            `CLOTHING_HL_PLAYER_VEST_009_8`,
-            `CLOTHING_HL_PLAYER_VEST_009_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_VEST_010_1`,
-            `CLOTHING_HL_PLAYER_VEST_010_10`,
-            `CLOTHING_HL_PLAYER_VEST_010_11`,
-            `CLOTHING_HL_PLAYER_VEST_010_12`,
-            `CLOTHING_HL_PLAYER_VEST_010_13`,
-            `CLOTHING_HL_PLAYER_VEST_010_14`,
-            `CLOTHING_HL_PLAYER_VEST_010_15`,
-            `CLOTHING_HL_PLAYER_VEST_010_16`,
-            `CLOTHING_HL_PLAYER_VEST_010_17`,
-            `CLOTHING_HL_PLAYER_VEST_010_18`,
-            `CLOTHING_HL_PLAYER_VEST_010_19`,
-            `CLOTHING_HL_PLAYER_VEST_010_2`,
-            `CLOTHING_HL_PLAYER_VEST_010_20`,
-            `CLOTHING_HL_PLAYER_VEST_010_21`,
-            `CLOTHING_HL_PLAYER_VEST_010_22`,
-            `CLOTHING_HL_PLAYER_VEST_010_3`,
-            `CLOTHING_HL_PLAYER_VEST_010_4`,
-            `CLOTHING_HL_PLAYER_VEST_010_5`,
-            `CLOTHING_HL_PLAYER_VEST_010_6`,
-            `CLOTHING_HL_PLAYER_VEST_010_7`,
-            `CLOTHING_HL_PLAYER_VEST_010_8`,
-            `CLOTHING_HL_PLAYER_VEST_010_9`,
-        },
-        {
-            `CLOTHING_HL_PLAYER_VEST_011_1`,
-            `CLOTHING_HL_PLAYER_VEST_011_10`,
-            `CLOTHING_HL_PLAYER_VEST_011_11`,
-            `CLOTHING_HL_PLAYER_VEST_011_12`,
-            `CLOTHING_HL_PLAYER_VEST_011_2`,
-            `CLOTHING_HL_PLAYER_VEST_011_3`,
-            `CLOTHING_HL_PLAYER_VEST_011_4`,
-            `CLOTHING_HL_PLAYER_VEST_011_5`,
-            `CLOTHING_HL_PLAYER_VEST_011_6`,
-            `CLOTHING_HL_PLAYER_VEST_011_7`,
-            `CLOTHING_HL_PLAYER_VEST_011_8`,
-            `CLOTHING_HL_PLAYER_VEST_011_9`,
         },
         {
             `CLOTHING_ITEM_M_SEASONAL_003_VEST_000`,
@@ -10741,12 +8630,6 @@ gComponents.mp_male = {
         },
         {
             `CLOTHING_ITEM_M_VEST_311_TINT_001`,
-        },
-        {
-            `CLOTHING_ITEM_M_VEST_313_TINT_001`,
-        },
-        {
-            `CLOTHING_SP_PRE_PLAYER_VEST_005_1`,
         },
     },
 }

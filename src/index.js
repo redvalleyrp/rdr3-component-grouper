@@ -7,7 +7,8 @@ const Group = require('./Group');
 const ClothingNames = require('./ClothingNames');
 
 const clothes = readClothes(path.resolve(__dirname, 'data', 'cloth_hash_names.lua'));
-const groups = groupClothes(clothes);
+const multiplayerClothes = clothes.filter(cloth => cloth.is_multiplayer);
+const groups = groupClothes(multiplayerClothes);
 
 saveGroupedClothes('./output', groups);
 
