@@ -7,22 +7,7 @@ const Group = require('./Group');
 const ClothingNames = require('./ClothingNames');
 
 const clothes = readClothes(path.resolve(__dirname, 'data', 'cloth_hash_names.lua'));
-const sortedClothes = sortClothes(clothes);
-
-const groups = [];
-
-let currentGroup = undefined;
-
-for (const cloth of sortedClothes) {
-    if (currentGroup === undefined || !currentGroup.add(cloth)) {
-        if (currentGroup?.clothes?.length) {
-            groups.push(currentGroup);
-        }
-
-        currentGroup = new Group(cloth);
-        currentGroup.add(cloth);
-    }
-}
+const groups = groupClothes(clothes);
 
 saveGroupedClothes('./output', groups);
 
@@ -53,6 +38,26 @@ function saveGroupedClothes(directoryPath, groups) {
 
         fs.writeFileSync(path.resolve(directoryPath, `${pedType}.lua`), luaOutput);
     }
+}
+
+function groupClothes(clothes) {
+    const sortedClothes = sortClothes(clothes);
+
+    const groups = [];
+    let currentGroup = undefined;
+
+    for (const cloth of sortedClothes) {
+        if (currentGroup === undefined || !currentGroup.add(cloth)) {
+            if (currentGroup?.clothes?.length) {
+                groups.push(currentGroup);
+            }
+
+            currentGroup = new Group(cloth);
+            currentGroup.add(cloth);
+        }
+    }
+
+    return groups;
 }
 
 function sortClothes(clothes) {
