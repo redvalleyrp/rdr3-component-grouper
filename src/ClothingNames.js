@@ -69,4 +69,4 @@ module.exports = {
     'horse_mustache': 'horseMustache',
     'saddle_lanterns': 'saddleLanterns',
     '2886757168': 'horseSaddleHolster'
-}
+};
