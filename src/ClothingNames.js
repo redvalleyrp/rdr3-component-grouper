@@ -5,7 +5,7 @@ module.exports = {
     'hats': 'hats',
     'vests': 'vests',
     'chaps': 'chaps',
-    'shirts_full': 'shirtsFull',
+    'shirts_full': 'shirt',
     'badges': 'badges',
     'masks': 'masks',
     'spats': 'spats',
