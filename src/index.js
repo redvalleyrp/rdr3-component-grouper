@@ -23,6 +23,10 @@ function saveGroupedClothes(directoryPath, groups) {
     const output = {};
 
     for (const group of groups) {
+        if (!group.type) {
+            continue;
+        }
+
         const outputGroupCategory = ClothingNames[group.category];
 
         output[group.pedType] = output[group.pedType] || {};
