@@ -5543,7 +5543,7 @@ gComponents.mp_female = {
             `CLOTHING_ITEM_F_SATCHEL_001`,
         },
     },
-    shirtsFull = {
+    shirt = {
         {
             `CLOTHING_ITEM_F_CHEMISE_000_TINT_001`,
             `CLOTHING_ITEM_F_CHEMISE_000_TINT_002`,

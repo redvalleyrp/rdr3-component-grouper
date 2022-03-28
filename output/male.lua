@@ -5962,7 +5962,7 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_SATCHEL_001`,
         },
     },
-    shirtsFull = {
+    shirt = {
         {
             `CLOTHING_ITEM_M_FRONTIER_SHIRT_000`,
         },
