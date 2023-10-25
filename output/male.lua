@@ -85,6 +85,76 @@ gComponents.mp_male = {
     },
     beards = {
         {
+            `CLOTHING_ITEM_M_BEARD_021_DARK_GREY`,
+            `CLOTHING_ITEM_M_BEARD_021_GINGER`,
+            `CLOTHING_ITEM_M_BEARD_021_GREY`,
+            `CLOTHING_ITEM_M_BEARD_021_JET_BLACK`,
+            `CLOTHING_ITEM_M_BEARD_021_LIGHT_BLONDE`,
+            `CLOTHING_ITEM_M_BEARD_021_LIGHT_BROWN`,
+            `CLOTHING_ITEM_M_BEARD_021_LIGHT_GINGER`,
+            `CLOTHING_ITEM_M_BEARD_021_LIGHT_GREY`,
+            `CLOTHING_ITEM_M_BEARD_021_MEDIUM_BROWN`,
+            `CLOTHING_ITEM_M_BEARD_021_SALT_PEPPER`,
+            `CLOTHING_ITEM_M_BEARD_021_STRAWBERRY_BLONDE`,
+            `CLOTHING_ITEM_M_BEARD_021_UNCLE_GREY`,
+        },
+        {
+            `CLOTHING_ITEM_M_BEARD_022_BLONDE`,
+            `CLOTHING_ITEM_M_BEARD_022_BROWN`,
+            `CLOTHING_ITEM_M_BEARD_022_DARKEST_BROWN`,
+            `CLOTHING_ITEM_M_BEARD_022_DARK_BLONDE`,
+            `CLOTHING_ITEM_M_BEARD_022_DARK_GINGER`,
+            `CLOTHING_ITEM_M_BEARD_022_DARK_GREY`,
+            `CLOTHING_ITEM_M_BEARD_022_GINGER`,
+            `CLOTHING_ITEM_M_BEARD_022_GREY`,
+            `CLOTHING_ITEM_M_BEARD_022_JET_BLACK`,
+            `CLOTHING_ITEM_M_BEARD_022_LIGHT_BLONDE`,
+            `CLOTHING_ITEM_M_BEARD_022_LIGHT_BROWN`,
+            `CLOTHING_ITEM_M_BEARD_022_LIGHT_GINGER`,
+            `CLOTHING_ITEM_M_BEARD_022_LIGHT_GREY`,
+            `CLOTHING_ITEM_M_BEARD_022_MEDIUM_BROWN`,
+            `CLOTHING_ITEM_M_BEARD_022_SALT_PEPPER`,
+            `CLOTHING_ITEM_M_BEARD_022_STRAWBERRY_BLONDE`,
+            `CLOTHING_ITEM_M_BEARD_022_UNCLE_GREY`,
+        },
+        {
+            `CLOTHING_ITEM_M_BEARD_023_BLONDE`,
+            `CLOTHING_ITEM_M_BEARD_023_BROWN`,
+            `CLOTHING_ITEM_M_BEARD_023_DARKEST_BROWN`,
+            `CLOTHING_ITEM_M_BEARD_023_DARK_BLONDE`,
+            `CLOTHING_ITEM_M_BEARD_023_DARK_GINGER`,
+            `CLOTHING_ITEM_M_BEARD_023_DARK_GREY`,
+            `CLOTHING_ITEM_M_BEARD_023_GINGER`,
+            `CLOTHING_ITEM_M_BEARD_023_GREY`,
+            `CLOTHING_ITEM_M_BEARD_023_JET_BLACK`,
+            `CLOTHING_ITEM_M_BEARD_023_LIGHT_BLONDE`,
+            `CLOTHING_ITEM_M_BEARD_023_LIGHT_BROWN`,
+            `CLOTHING_ITEM_M_BEARD_023_LIGHT_GINGER`,
+            `CLOTHING_ITEM_M_BEARD_023_LIGHT_GREY`,
+            `CLOTHING_ITEM_M_BEARD_023_MEDIUM_BROWN`,
+            `CLOTHING_ITEM_M_BEARD_023_SALT_PEPPER`,
+            `CLOTHING_ITEM_M_BEARD_023_STRAWBERRY_BLONDE`,
+            `CLOTHING_ITEM_M_BEARD_023_UNCLE_GREY`,
+        },
+        {
+            `CLOTHING_ITEM_M_BEARD_024_BLONDE`,
+            `CLOTHING_ITEM_M_BEARD_024_BROWN`,
+            `CLOTHING_ITEM_M_BEARD_024_DARKEST_BROWN`,
+            `CLOTHING_ITEM_M_BEARD_024_DARK_BLONDE`,
+            `CLOTHING_ITEM_M_BEARD_024_DARK_GINGER`,
+            `CLOTHING_ITEM_M_BEARD_024_DARK_GREY`,
+            `CLOTHING_ITEM_M_BEARD_024_GINGER`,
+            `CLOTHING_ITEM_M_BEARD_024_GREY`,
+            `CLOTHING_ITEM_M_BEARD_024_LIGHT_BLONDE`,
+            `CLOTHING_ITEM_M_BEARD_024_LIGHT_BROWN`,
+            `CLOTHING_ITEM_M_BEARD_024_LIGHT_GINGER`,
+            `CLOTHING_ITEM_M_BEARD_024_LIGHT_GREY`,
+            `CLOTHING_ITEM_M_BEARD_024_MEDIUM_BROWN`,
+            `CLOTHING_ITEM_M_BEARD_024_SALT_PEPPER`,
+            `CLOTHING_ITEM_M_BEARD_024_STRAWBERRY_BLONDE`,
+            `CLOTHING_ITEM_M_BEARD_024_UNCLE_GREY`,
+        },
+        {
             `CLOTHING_ITEM_M_BEARD_001_BLONDE`,
             `CLOTHING_ITEM_M_BEARD_001_BROWN`,
             `CLOTHING_ITEM_M_BEARD_001_DARKEST_BROWN`,
@@ -470,77 +540,6 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_BEARD_021_DARKEST_BROWN`,
             `CLOTHING_ITEM_M_BEARD_021_DARK_BLONDE`,
             `CLOTHING_ITEM_M_BEARD_021_DARK_GINGER`,
-            `CLOTHING_ITEM_M_BEARD_021_DARK_GREY`,
-            `CLOTHING_ITEM_M_BEARD_021_GINGER`,
-            `CLOTHING_ITEM_M_BEARD_021_GREY`,
-            `CLOTHING_ITEM_M_BEARD_021_JET_BLACK`,
-            `CLOTHING_ITEM_M_BEARD_021_LIGHT_BLONDE`,
-            `CLOTHING_ITEM_M_BEARD_021_LIGHT_BROWN`,
-            `CLOTHING_ITEM_M_BEARD_021_LIGHT_GINGER`,
-            `CLOTHING_ITEM_M_BEARD_021_LIGHT_GREY`,
-            `CLOTHING_ITEM_M_BEARD_021_MEDIUM_BROWN`,
-            `CLOTHING_ITEM_M_BEARD_021_SALT_PEPPER`,
-            `CLOTHING_ITEM_M_BEARD_021_STRAWBERRY_BLONDE`,
-            `CLOTHING_ITEM_M_BEARD_021_UNCLE_GREY`,
-        },
-        {
-            `CLOTHING_ITEM_M_BEARD_022_BLONDE`,
-            `CLOTHING_ITEM_M_BEARD_022_BROWN`,
-            `CLOTHING_ITEM_M_BEARD_022_DARKEST_BROWN`,
-            `CLOTHING_ITEM_M_BEARD_022_DARK_BLONDE`,
-            `CLOTHING_ITEM_M_BEARD_022_DARK_GINGER`,
-            `CLOTHING_ITEM_M_BEARD_022_DARK_GREY`,
-            `CLOTHING_ITEM_M_BEARD_022_GINGER`,
-            `CLOTHING_ITEM_M_BEARD_022_GREY`,
-            `CLOTHING_ITEM_M_BEARD_022_JET_BLACK`,
-            `CLOTHING_ITEM_M_BEARD_022_LIGHT_BLONDE`,
-            `CLOTHING_ITEM_M_BEARD_022_LIGHT_BROWN`,
-            `CLOTHING_ITEM_M_BEARD_022_LIGHT_GINGER`,
-            `CLOTHING_ITEM_M_BEARD_022_LIGHT_GREY`,
-            `CLOTHING_ITEM_M_BEARD_022_MEDIUM_BROWN`,
-            `CLOTHING_ITEM_M_BEARD_022_SALT_PEPPER`,
-            `CLOTHING_ITEM_M_BEARD_022_STRAWBERRY_BLONDE`,
-            `CLOTHING_ITEM_M_BEARD_022_UNCLE_GREY`,
-        },
-        {
-            `CLOTHING_ITEM_M_BEARD_023_BLONDE`,
-            `CLOTHING_ITEM_M_BEARD_023_BROWN`,
-            `CLOTHING_ITEM_M_BEARD_023_DARKEST_BROWN`,
-            `CLOTHING_ITEM_M_BEARD_023_DARK_BLONDE`,
-            `CLOTHING_ITEM_M_BEARD_023_DARK_GINGER`,
-            `CLOTHING_ITEM_M_BEARD_023_DARK_GREY`,
-            `CLOTHING_ITEM_M_BEARD_023_GINGER`,
-            `CLOTHING_ITEM_M_BEARD_023_GREY`,
-            `CLOTHING_ITEM_M_BEARD_023_JET_BLACK`,
-            `CLOTHING_ITEM_M_BEARD_023_LIGHT_BLONDE`,
-            `CLOTHING_ITEM_M_BEARD_023_LIGHT_BROWN`,
-            `CLOTHING_ITEM_M_BEARD_023_LIGHT_GINGER`,
-            `CLOTHING_ITEM_M_BEARD_023_LIGHT_GREY`,
-            `CLOTHING_ITEM_M_BEARD_023_MEDIUM_BROWN`,
-            `CLOTHING_ITEM_M_BEARD_023_SALT_PEPPER`,
-            `CLOTHING_ITEM_M_BEARD_023_STRAWBERRY_BLONDE`,
-            `CLOTHING_ITEM_M_BEARD_023_UNCLE_GREY`,
-        },
-        {
-            `CLOTHING_ITEM_M_BEARD_024_BLONDE`,
-            `CLOTHING_ITEM_M_BEARD_024_BROWN`,
-            `CLOTHING_ITEM_M_BEARD_024_DARKEST_BROWN`,
-            `CLOTHING_ITEM_M_BEARD_024_DARK_BLONDE`,
-            `CLOTHING_ITEM_M_BEARD_024_DARK_GINGER`,
-            `CLOTHING_ITEM_M_BEARD_024_DARK_GREY`,
-            `CLOTHING_ITEM_M_BEARD_024_GINGER`,
-            `CLOTHING_ITEM_M_BEARD_024_GREY`,
-            `CLOTHING_ITEM_M_BEARD_024_LIGHT_BLONDE`,
-            `CLOTHING_ITEM_M_BEARD_024_LIGHT_BROWN`,
-            `CLOTHING_ITEM_M_BEARD_024_LIGHT_GINGER`,
-            `CLOTHING_ITEM_M_BEARD_024_LIGHT_GREY`,
-            `CLOTHING_ITEM_M_BEARD_024_MEDIUM_BROWN`,
-            `CLOTHING_ITEM_M_BEARD_024_SALT_PEPPER`,
-            `CLOTHING_ITEM_M_BEARD_024_STRAWBERRY_BLONDE`,
-            `CLOTHING_ITEM_M_BEARD_024_UNCLE_GREY`,
-        },
-        {
-            `CLOTHING_ITEM_M_NECKERCHIEF_550_TINT_024`,
         },
     },
     beltBuckles = {
@@ -1005,11 +1004,6 @@ gComponents.mp_male = {
             `CLOTHING_M_R4_BUCKLE_000_TINT_006`,
         },
     },
-    badges = {
-        {
-            `CLOTHING_ITEM_M_BADGE_000_TINT_001`,
-        },
-    },
     belts = {
         {
             `CLOTHING_ITEM_M_SEASONAL_000_BELT_000`,
@@ -1022,6 +1016,12 @@ gComponents.mp_male = {
         },
     },
     bootAccessories = {
+        {
+            `CLOTHING_ITEM_M_BLACKROSE_SPURS_000`,
+        },
+        {
+            `CLOTHING_ITEM_M_COPPERHEAD_SPURS_000`,
+        },
         {
             `CLOTHING_ITEM_M_SEASONAL_002_SPURS_000`,
         },
@@ -1036,6 +1036,9 @@ gComponents.mp_male = {
         },
         {
             `CLOTHING_ITEM_M_SEASON_SPURS_000_TINT_001`,
+        },
+        {
+            `CLOTHING_ITEM_M_SONY_SPURS_000`,
         },
         {
             `CLOTHING_ITEM_M_SPURS_000_TINT_001`,
@@ -1157,8 +1160,18 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_SPURS_011_TINT_009`,
             `CLOTHING_ITEM_M_SPURS_011_TINT_010`,
         },
+        {
+            `CLOTHING_M_R1_SPURS_000_TINT_001`,
+            `CLOTHING_M_R1_SPURS_000_TINT_002`,
+            `CLOTHING_M_R1_SPURS_000_TINT_004`,
+            `CLOTHING_M_R1_SPURS_000_TINT_005`,
+            `CLOTHING_M_R1_SPURS_000_TINT_006`,
+        },
     },
     boots = {
+        {
+            `CLOTHING_ITEM_M_BLACKROSE_BOOTS_000`,
+        },
         {
             `CLOTHING_ITEM_M_BOOTS_000_TINT_001`,
             `CLOTHING_ITEM_M_BOOTS_000_TINT_002`,
@@ -1717,6 +1730,9 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_BOOTS_307_TINT_010`,
         },
         {
+            `CLOTHING_ITEM_M_COPPERHEAD_BOOTS_000`,
+        },
+        {
             `CLOTHING_ITEM_M_FRONTIER_BOOTS_000`,
         },
         {
@@ -1745,6 +1761,21 @@ gComponents.mp_male = {
         },
         {
             `CLOTHING_ITEM_M_SEASONAL_005_BOOTS_VAR_001`,
+        },
+        {
+            `CLOTHING_ITEM_M_SOCKS_000_TINT_001`,
+            `CLOTHING_ITEM_M_SOCKS_000_TINT_002`,
+            `CLOTHING_ITEM_M_SOCKS_000_TINT_003`,
+            `CLOTHING_ITEM_M_SOCKS_000_TINT_004`,
+            `CLOTHING_ITEM_M_SOCKS_000_TINT_005`,
+            `CLOTHING_ITEM_M_SOCKS_000_TINT_006`,
+            `CLOTHING_ITEM_M_SOCKS_000_TINT_007`,
+            `CLOTHING_ITEM_M_SOCKS_000_TINT_008`,
+            `CLOTHING_ITEM_M_SOCKS_000_TINT_009`,
+            `CLOTHING_ITEM_M_SOCKS_000_TINT_010`,
+        },
+        {
+            `CLOTHING_ITEM_M_SONY_BOOTS_000`,
         },
         {
             `CLOTHING_ITEM_M_VAQUERO_BOOTS_000`,
@@ -1836,6 +1867,9 @@ gComponents.mp_male = {
         },
     },
     coats = {
+        {
+            `CLOTHING_ITEM_M_BLACKROSE_COAT_000`,
+        },
         {
             `CLOTHING_ITEM_M_COAT_000_TINT_001`,
             `CLOTHING_ITEM_M_COAT_000_TINT_002`,
@@ -2356,14 +2390,16 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_SEASONAL_005_COAT_VAR_001`,
         },
         {
+            `CLOTHING_ITEM_M_SONY_COAT_000`,
+        },
+        {
             `CLOTHING_ITEM_M_VAQUERO_COAT_000`,
+        },
+        {
+            `F_SKIRT_005`,
         },
     },
     coatsClosed = {
-        {
-            `CLOTHING_ITEM_F_SEASONAL_246_NECKERCHIEF_VAR_008`,
-            `CLOTHING_ITEM_F_SEASONAL_246_NECKERCHIEF_VAR_009`,
-        },
         {
             `CLOTHING_ITEM_M_CLOSECOAT_000_TINT_001`,
             `CLOTHING_ITEM_M_CLOSECOAT_000_TINT_002`,
@@ -2623,6 +2659,37 @@ gComponents.mp_male = {
         },
         {
             `CLOTHING_M_HALLOWEEN_BLINDFOLD_001_TINT_001`,
+        },
+        {
+            `CLOTHING_M_R1_EYEWEAR_000_TINT_001`,
+            `CLOTHING_M_R1_EYEWEAR_000_TINT_002`,
+            `CLOTHING_M_R1_EYEWEAR_000_TINT_003`,
+            `CLOTHING_M_R1_EYEWEAR_000_TINT_004`,
+            `CLOTHING_M_R1_EYEWEAR_000_TINT_005`,
+            `CLOTHING_M_R1_EYEWEAR_000_TINT_006`,
+        },
+        {
+            `CLOTHING_M_R1_EYEWEAR_001_TINT_001`,
+            `CLOTHING_M_R1_EYEWEAR_001_TINT_002`,
+            `CLOTHING_M_R1_EYEWEAR_001_TINT_003`,
+            `CLOTHING_M_R1_EYEWEAR_001_TINT_004`,
+            `CLOTHING_M_R1_EYEWEAR_001_TINT_005`,
+            `CLOTHING_M_R1_EYEWEAR_001_TINT_006`,
+        },
+        {
+            `CLOTHING_M_R2_EYEWEAR_000_TINT_001`,
+            `CLOTHING_M_R2_EYEWEAR_000_TINT_002`,
+            `CLOTHING_M_R2_EYEWEAR_000_TINT_003`,
+            `CLOTHING_M_R2_EYEWEAR_000_TINT_004`,
+            `CLOTHING_M_R2_EYEWEAR_000_TINT_005`,
+            `CLOTHING_M_R2_EYEWEAR_000_TINT_006`,
+        },
+        {
+            `CLOTHING_M_R3_EYEWEAR_000_TINT_001`,
+            `CLOTHING_M_R3_EYEWEAR_000_TINT_002`,
+            `CLOTHING_M_R3_EYEWEAR_000_TINT_003`,
+            `CLOTHING_M_R3_EYEWEAR_000_TINT_004`,
+            `CLOTHING_M_R3_EYEWEAR_000_TINT_006`,
         },
     },
     gauntlets = {
@@ -2914,6 +2981,12 @@ gComponents.mp_male = {
     },
     gunbelts = {
         {
+            `CLOTHING_ITEM_M_BLACKROSE_GUNBELT_000`,
+        },
+        {
+            `CLOTHING_ITEM_M_COPPERHEAD_GUNBELT_000`,
+        },
+        {
             `CLOTHING_ITEM_M_GUNBELT_000_TINT_001`,
             `CLOTHING_ITEM_M_GUNBELT_000_TINT_002`,
             `CLOTHING_ITEM_M_GUNBELT_000_TINT_003`,
@@ -2995,7 +3068,17 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_GUNBELT_302_TINT_001`,
         },
         {
+            `CLOTHING_ITEM_M_SONY_GUNBELT_000`,
+        },
+        {
             `CLOTHING_ITEM_M_STDPOLICE_GUNBELT_000`,
+        },
+        {
+            `CLOTHING_M_R05_GUNBELT_000_TINT_002`,
+            `CLOTHING_M_R05_GUNBELT_000_TINT_003`,
+            `CLOTHING_M_R05_GUNBELT_000_TINT_004`,
+            `CLOTHING_M_R05_GUNBELT_000_TINT_005`,
+            `CLOTHING_M_R05_GUNBELT_000_TINT_006`,
         },
         {
             `CLOTHING_M_R1_GUNBELT_000_TINT_001`,
@@ -3169,6 +3252,8 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_HAIR_007_LIGHT_GREY`,
             `CLOTHING_ITEM_M_HAIR_007_MEDIUM_BROWN`,
             `CLOTHING_ITEM_M_HAIR_007_SALT_PEPPER`,
+        },
+        {
             `CLOTHING_ITEM_M_HAIR_007_STRAWBERRY_BLONDE`,
             `CLOTHING_ITEM_M_HAIR_007_UNCLE_GREY`,
         },
@@ -3533,8 +3618,67 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_HAIR_028_STRAWBERRY_BLONDE`,
             `CLOTHING_ITEM_M_HAIR_028_UNCLE_GREY`,
         },
+        {
+            `CLOTHING_ITEM_M_HAIR_300_BLONDE`,
+            `CLOTHING_ITEM_M_HAIR_300_BROWN`,
+            `CLOTHING_ITEM_M_HAIR_300_DARKEST_BROWN`,
+            `CLOTHING_ITEM_M_HAIR_300_DARK_BLONDE`,
+            `CLOTHING_ITEM_M_HAIR_300_DARK_GINGER`,
+            `CLOTHING_ITEM_M_HAIR_300_DARK_GREY`,
+            `CLOTHING_ITEM_M_HAIR_300_GINGER`,
+            `CLOTHING_ITEM_M_HAIR_300_GREY`,
+            `CLOTHING_ITEM_M_HAIR_300_JET_BLACK`,
+            `CLOTHING_ITEM_M_HAIR_300_LIGHT_BLONDE`,
+            `CLOTHING_ITEM_M_HAIR_300_LIGHT_BROWN`,
+            `CLOTHING_ITEM_M_HAIR_300_LIGHT_GINGER`,
+            `CLOTHING_ITEM_M_HAIR_300_LIGHT_GREY`,
+            `CLOTHING_ITEM_M_HAIR_300_MEDIUM_BROWN`,
+            `CLOTHING_ITEM_M_HAIR_300_SALT_PEPPER`,
+            `CLOTHING_ITEM_M_HAIR_300_STRAWBERRY_BLONDE`,
+            `CLOTHING_ITEM_M_HAIR_300_UNCLE_GREY`,
+        },
+        {
+            `CLOTHING_ITEM_M_HAIR_302_BLONDE`,
+            `CLOTHING_ITEM_M_HAIR_302_BROWN`,
+            `CLOTHING_ITEM_M_HAIR_302_DARKEST_BROWN`,
+            `CLOTHING_ITEM_M_HAIR_302_DARK_BLONDE`,
+            `CLOTHING_ITEM_M_HAIR_302_DARK_GINGER`,
+            `CLOTHING_ITEM_M_HAIR_302_DARK_GREY`,
+            `CLOTHING_ITEM_M_HAIR_302_GINGER`,
+            `CLOTHING_ITEM_M_HAIR_302_GREY`,
+            `CLOTHING_ITEM_M_HAIR_302_JET_BLACK`,
+            `CLOTHING_ITEM_M_HAIR_302_LIGHT_BLONDE`,
+            `CLOTHING_ITEM_M_HAIR_302_LIGHT_BROWN`,
+            `CLOTHING_ITEM_M_HAIR_302_LIGHT_GINGER`,
+            `CLOTHING_ITEM_M_HAIR_302_LIGHT_GREY`,
+            `CLOTHING_ITEM_M_HAIR_302_MEDIUM_BROWN`,
+            `CLOTHING_ITEM_M_HAIR_302_SALT_PEPPER`,
+            `CLOTHING_ITEM_M_HAIR_302_STRAWBERRY_BLONDE`,
+            `CLOTHING_ITEM_M_HAIR_302_UNCLE_GREY`,
+        },
+    },
+    accessories = {
+        {
+            `CLOTHING_M_R2_O4_BUCKLE_000_TINT_001`,
+            `CLOTHING_M_R2_O4_BUCKLE_000_TINT_002`,
+            `CLOTHING_M_R2_O4_BUCKLE_000_TINT_003`,
+            `CLOTHING_M_R2_O4_BUCKLE_000_TINT_004`,
+            `CLOTHING_M_R2_O4_BUCKLE_000_TINT_005`,
+            `CLOTHING_M_R2_O4_BUCKLE_000_TINT_006`,
+        },
+    },
+    badges = {
+        {
+            `CLOTHING_ITEM_M_BADGE_000_TINT_001`,
+        },
     },
     hats = {
+        {
+            `CLOTHING_ITEM_M_BLACKROSE_HAT_000`,
+        },
+        {
+            `CLOTHING_ITEM_M_COPPERHEAD_HAT_000`,
+        },
         {
             `CLOTHING_ITEM_M_FRONTIER_HAT_000`,
         },
@@ -4588,7 +4732,118 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_SEASON_HAT_000_VAR_001`,
         },
         {
+            `CLOTHING_ITEM_M_SONY_HAT_000`,
+        },
+        {
             `CLOTHING_ITEM_M_VAQUERO_HAT_000`,
+        },
+        {
+            `CLOTHING_M_R1_O1_HAT_000_TINT_001`,
+            `CLOTHING_M_R1_O1_HAT_000_TINT_002`,
+            `CLOTHING_M_R1_O1_HAT_000_TINT_003`,
+            `CLOTHING_M_R1_O1_HAT_000_TINT_004`,
+            `CLOTHING_M_R1_O1_HAT_000_TINT_005`,
+            `CLOTHING_M_R1_O1_HAT_000_TINT_006`,
+        },
+        {
+            `CLOTHING_M_R1_O2_HAT_000_TINT_001`,
+            `CLOTHING_M_R1_O2_HAT_000_TINT_002`,
+            `CLOTHING_M_R1_O2_HAT_000_TINT_003`,
+            `CLOTHING_M_R1_O2_HAT_000_TINT_004`,
+            `CLOTHING_M_R1_O2_HAT_000_TINT_005`,
+            `CLOTHING_M_R1_O2_HAT_000_TINT_006`,
+        },
+        {
+            `CLOTHING_M_R1_O3_HAT_000_TINT_001`,
+            `CLOTHING_M_R1_O3_HAT_000_TINT_002`,
+            `CLOTHING_M_R1_O3_HAT_000_TINT_003`,
+            `CLOTHING_M_R1_O3_HAT_000_TINT_004`,
+            `CLOTHING_M_R1_O3_HAT_000_TINT_005`,
+            `CLOTHING_M_R1_O3_HAT_000_TINT_006`,
+        },
+        {
+            `CLOTHING_M_R1_O4_HAT_000_TINT_001`,
+            `CLOTHING_M_R1_O4_HAT_000_TINT_002`,
+            `CLOTHING_M_R1_O4_HAT_000_TINT_003`,
+            `CLOTHING_M_R1_O4_HAT_000_TINT_004`,
+            `CLOTHING_M_R1_O4_HAT_000_TINT_005`,
+        },
+        {
+            `CLOTHING_M_R1_O5_HAT_000_TINT_001`,
+            `CLOTHING_M_R1_O5_HAT_000_TINT_002`,
+            `CLOTHING_M_R1_O5_HAT_000_TINT_003`,
+            `CLOTHING_M_R1_O5_HAT_000_TINT_004`,
+            `CLOTHING_M_R1_O5_HAT_000_TINT_005`,
+            `CLOTHING_M_R1_O5_HAT_000_TINT_006`,
+        },
+        {
+            `CLOTHING_M_R2_HAT_000_TINT_001`,
+            `CLOTHING_M_R2_HAT_000_TINT_002`,
+            `CLOTHING_M_R2_HAT_000_TINT_003`,
+            `CLOTHING_M_R2_HAT_000_TINT_004`,
+            `CLOTHING_M_R2_HAT_000_TINT_005`,
+            `CLOTHING_M_R2_HAT_000_TINT_006`,
+        },
+        {
+            `CLOTHING_M_R2_O1_HAT_000_TINT_001`,
+            `CLOTHING_M_R2_O1_HAT_000_TINT_002`,
+            `CLOTHING_M_R2_O1_HAT_000_TINT_003`,
+            `CLOTHING_M_R2_O1_HAT_000_TINT_004`,
+            `CLOTHING_M_R2_O1_HAT_000_TINT_005`,
+            `CLOTHING_M_R2_O1_HAT_000_TINT_006`,
+        },
+        {
+            `CLOTHING_M_R2_O2_HAT_000_TINT_001`,
+            `CLOTHING_M_R2_O2_HAT_000_TINT_002`,
+            `CLOTHING_M_R2_O2_HAT_000_TINT_003`,
+            `CLOTHING_M_R2_O2_HAT_000_TINT_004`,
+            `CLOTHING_M_R2_O2_HAT_000_TINT_005`,
+            `CLOTHING_M_R2_O2_HAT_000_TINT_006`,
+        },
+        {
+            `CLOTHING_M_R2_O3_HAT_000_TINT_001`,
+            `CLOTHING_M_R2_O3_HAT_000_TINT_002`,
+            `CLOTHING_M_R2_O3_HAT_000_TINT_003`,
+            `CLOTHING_M_R2_O3_HAT_000_TINT_004`,
+            `CLOTHING_M_R2_O3_HAT_000_TINT_005`,
+            `CLOTHING_M_R2_O3_HAT_000_TINT_006`,
+        },
+        {
+            `CLOTHING_M_R2_O4_HAT_000_TINT_001`,
+            `CLOTHING_M_R2_O4_HAT_000_TINT_002`,
+            `CLOTHING_M_R2_O4_HAT_000_TINT_003`,
+            `CLOTHING_M_R2_O4_HAT_000_TINT_004`,
+            `CLOTHING_M_R2_O4_HAT_000_TINT_006`,
+        },
+        {
+            `CLOTHING_M_R3_O1_HAT_000_TINT_001`,
+            `CLOTHING_M_R3_O1_HAT_000_TINT_002`,
+            `CLOTHING_M_R3_O1_HAT_000_TINT_003`,
+            `CLOTHING_M_R3_O1_HAT_000_TINT_004`,
+            `CLOTHING_M_R3_O1_HAT_000_TINT_005`,
+            `CLOTHING_M_R3_O1_HAT_000_TINT_006`,
+        },
+        {
+            `CLOTHING_M_R3_O2_HAT_000_TINT_003`,
+            `CLOTHING_M_R3_O2_HAT_000_TINT_004`,
+            `CLOTHING_M_R3_O2_HAT_000_TINT_005`,
+            `CLOTHING_M_R3_O2_HAT_000_TINT_006`,
+        },
+        {
+            `CLOTHING_M_R3_O3_HAT_000_TINT_001`,
+            `CLOTHING_M_R3_O3_HAT_000_TINT_002`,
+            `CLOTHING_M_R3_O3_HAT_000_TINT_003`,
+            `CLOTHING_M_R3_O3_HAT_000_TINT_004`,
+            `CLOTHING_M_R3_O3_HAT_000_TINT_005`,
+            `CLOTHING_M_R3_O3_HAT_000_TINT_006`,
+        },
+        {
+            `CLOTHING_M_R3_O4_HAT_000_TINT_001`,
+            `CLOTHING_M_R3_O4_HAT_000_TINT_002`,
+            `CLOTHING_M_R3_O4_HAT_000_TINT_003`,
+            `CLOTHING_M_R3_O4_HAT_000_TINT_004`,
+            `CLOTHING_M_R3_O4_HAT_000_TINT_005`,
+            `CLOTHING_M_R3_O4_HAT_000_TINT_006`,
         },
         {
             `CLOTHING_M_R4_NECKTIE_239_TINT_016`,
@@ -4764,6 +5019,12 @@ gComponents.mp_male = {
     },
     holstersLeft = {
         {
+            `CLOTHING_ITEM_M_BLACKROSE_OFFHAND_000`,
+        },
+        {
+            `CLOTHING_ITEM_M_COPPERHEAD_OFFHAND_000`,
+        },
+        {
             `CLOTHING_ITEM_M_OFFHAND_000_TINT_001`,
             `CLOTHING_ITEM_M_OFFHAND_000_TINT_002`,
             `CLOTHING_ITEM_M_OFFHAND_000_TINT_003`,
@@ -4845,16 +5106,35 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_OFFHAND_302_TINT_001`,
         },
         {
+            `CLOTHING_ITEM_M_SONY_OFFHAND_000`,
+        },
+        {
+            `CLOTHING_M_R05_OFFHAND_000_TINT_001`,
+            `CLOTHING_M_R05_OFFHAND_000_TINT_002`,
+            `CLOTHING_M_R05_OFFHAND_000_TINT_003`,
+            `CLOTHING_M_R05_OFFHAND_000_TINT_004`,
+            `CLOTHING_M_R05_OFFHAND_000_TINT_005`,
+            `CLOTHING_M_R05_OFFHAND_000_TINT_006`,
+        },
+        {
             `CLOTHING_M_R1_OFFHAND_000_TINT_001`,
             `CLOTHING_M_R1_OFFHAND_000_TINT_002`,
+            `CLOTHING_M_R1_OFFHAND_000_TINT_003`,
+            `CLOTHING_M_R1_OFFHAND_000_TINT_004`,
+            `CLOTHING_M_R1_OFFHAND_000_TINT_005`,
+            `CLOTHING_M_R1_OFFHAND_000_TINT_006`,
         },
         {
             `CLOTHING_M_R1_OFFHAND_001_TINT_001`,
             `CLOTHING_M_R1_OFFHAND_001_TINT_003`,
         },
         {
+            `CLOTHING_M_R2_OFFHAND_000_TINT_001`,
             `CLOTHING_M_R2_OFFHAND_000_TINT_002`,
+            `CLOTHING_M_R2_OFFHAND_000_TINT_003`,
+            `CLOTHING_M_R2_OFFHAND_000_TINT_004`,
             `CLOTHING_M_R2_OFFHAND_000_TINT_005`,
+            `CLOTHING_M_R2_OFFHAND_000_TINT_006`,
         },
         {
             `CLOTHING_M_R3_OFFHAND_000_TINT_001`,
@@ -4862,6 +5142,7 @@ gComponents.mp_male = {
             `CLOTHING_M_R3_OFFHAND_000_TINT_003`,
             `CLOTHING_M_R3_OFFHAND_000_TINT_004`,
             `CLOTHING_M_R3_OFFHAND_000_TINT_005`,
+            `CLOTHING_M_R3_OFFHAND_000_TINT_006`,
         },
         {
             `CLOTHING_M_R4_OFFHAND_000_TINT_001`,
@@ -5048,6 +5329,14 @@ gComponents.mp_male = {
         {
             `CLOTHING_ITEM_M_MASK_009_VAR_001`,
             `CLOTHING_ITEM_M_MASK_009_VAR_002`,
+            `CLOTHING_ITEM_M_MASK_009_VAR_003`,
+            `CLOTHING_ITEM_M_MASK_009_VAR_004`,
+            `CLOTHING_ITEM_M_MASK_009_VAR_005`,
+            `CLOTHING_ITEM_M_MASK_009_VAR_006`,
+            `CLOTHING_ITEM_M_MASK_009_VAR_008`,
+            `CLOTHING_ITEM_M_MASK_009_VAR_009`,
+            `CLOTHING_ITEM_M_MASK_009_VAR_010`,
+            `CLOTHING_ITEM_M_MASK_009_VAR_011`,
         },
         {
             `CLOTHING_ITEM_M_MASK_400_VAR_000`,
@@ -5186,6 +5475,14 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_FRONTIER_NECKWEAR_000`,
         },
         {
+            `CLOTHING_ITEM_M_NECKERCHIEF_000_ADV_001`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_000_ADV_002`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_000_ADV_003`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_000_ADV_004`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_000_ADV_005`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_000_ADV_006`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_000_ADV_007`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_000_ADV_008`,
             `CLOTHING_ITEM_M_NECKERCHIEF_000_TINT_001`,
             `CLOTHING_ITEM_M_NECKERCHIEF_000_TINT_002`,
             `CLOTHING_ITEM_M_NECKERCHIEF_000_TINT_003`,
@@ -5222,6 +5519,14 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_NECKERCHIEF_000_TINT_034`,
         },
         {
+            `CLOTHING_ITEM_M_NECKERCHIEF_001_ADV_001`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_001_ADV_002`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_001_ADV_003`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_001_ADV_004`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_001_ADV_005`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_001_ADV_006`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_001_ADV_007`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_001_ADV_008`,
             `CLOTHING_ITEM_M_NECKERCHIEF_001_TINT_001`,
             `CLOTHING_ITEM_M_NECKERCHIEF_001_TINT_002`,
             `CLOTHING_ITEM_M_NECKERCHIEF_001_TINT_003`,
@@ -5232,6 +5537,14 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_NECKERCHIEF_001_TINT_008`,
         },
         {
+            `CLOTHING_ITEM_M_NECKERCHIEF_002_ADV_001`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_002_ADV_002`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_002_ADV_003`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_002_ADV_004`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_002_ADV_005`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_002_ADV_006`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_002_ADV_007`,
+            `CLOTHING_ITEM_M_NECKERCHIEF_002_ADV_008`,
             `CLOTHING_ITEM_M_NECKERCHIEF_002_TINT_001`,
             `CLOTHING_ITEM_M_NECKERCHIEF_002_TINT_002`,
             `CLOTHING_ITEM_M_NECKERCHIEF_002_TINT_003`,
@@ -5401,6 +5714,9 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_SEASON_NECKERCHIEF_001_TINT_001`,
         },
         {
+            `CLOTHING_ITEM_M_SONY_SCARF_000`,
+        },
+        {
             `CLOTHING_ITEM_M_VAQUERO_NECKWEAR_000`,
         },
         {
@@ -5408,6 +5724,12 @@ gComponents.mp_male = {
         },
     },
     pants = {
+        {
+            `CLOTHING_ITEM_M_BLACKROSE_PANTS_000`,
+        },
+        {
+            `CLOTHING_ITEM_M_COPPERHEAD_PANTS_000`,
+        },
         {
             `CLOTHING_ITEM_M_FRONTIER_PANTS_000`,
         },
@@ -5822,6 +6144,9 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_SEASONAL_005_PANTS_VAR_001`,
         },
         {
+            `CLOTHING_ITEM_M_SONY_PANTS_000`,
+        },
+        {
             `CLOTHING_ITEM_M_USB_000_TINT_001`,
             `CLOTHING_ITEM_M_USB_000_TINT_002`,
             `CLOTHING_ITEM_M_USB_000_TINT_003`,
@@ -5959,10 +6284,15 @@ gComponents.mp_male = {
     satchels = {
         {
             `CLOTHING_ITEM_M_SATCHEL_001`,
-            `CLOTHING_ITEM_M_SATCHEL_001`,
         },
     },
     shirt = {
+        {
+            `CLOTHING_ITEM_M_BLACKROSE_SHIRT_000`,
+        },
+        {
+            `CLOTHING_ITEM_M_COPPERHEAD_SHIRT_000`,
+        },
         {
             `CLOTHING_ITEM_M_FRONTIER_SHIRT_000`,
         },
@@ -6383,6 +6713,9 @@ gComponents.mp_male = {
             `CLOTHING_ITEM_M_SHIRT_400_VAR_000`,
         },
         {
+            `CLOTHING_ITEM_M_SONY_SHIRT_000`,
+        },
+        {
             `CLOTHING_ITEM_M_UST_000_TINT_001`,
             `CLOTHING_ITEM_M_UST_000_TINT_002`,
             `CLOTHING_ITEM_M_UST_000_TINT_003`,
@@ -6399,6 +6732,9 @@ gComponents.mp_male = {
         },
     },
     spats = {
+        {
+            `CLOTHING_ITEM_M_COPPERHEAD_SPATS_000`,
+        },
         {
             `CLOTHING_ITEM_M_ROUGHRIDER_SPATS_000`,
         },
@@ -6621,10 +6957,16 @@ gComponents.mp_male = {
     },
     vests = {
         {
+            `CLOTHING_ITEM_M_BLACKROSE_VEST_000`,
+        },
+        {
             `CLOTHING_ITEM_M_SEASONAL_003_VEST_000`,
         },
         {
             `CLOTHING_ITEM_M_SEASONAL_005_VEST_VAR_001`,
+        },
+        {
+            `CLOTHING_ITEM_M_SONY_VEST_000`,
         },
         {
             `CLOTHING_ITEM_M_VAQUERO_VEST_000`,

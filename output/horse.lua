@@ -411,11 +411,6 @@ gComponents.horse = {
             `HORSE_EQUIPMENT_WESTERN_04_STOCK_USED_SADDLE_005`,
         },
     },
-    horseShoes = {
-        {
-            `horse_shoes`,
-        },
-    },
     saddleHorns = {
         {
             `HORSE_EQUIPMENT_HORN_NEW_000`,
@@ -442,9 +437,6 @@ gComponents.horse = {
             `HORSE_EQUIPMENT_HORN_NEW_021`,
             `HORSE_EQUIPMENT_HORN_NEW_022`,
             `HORSE_EQUIPMENT_HORN_NEW_023`,
-        },
-        {
-            `hat_mr1_062_c1_merge`,
         },
     },
     saddleLanterns = {
